@@ -35,8 +35,16 @@ def make_card():
     pj = re.compile(r"\b(jss|jsws|jswgs|jsd|jswd|jswgd)\s*=\s*([-+0-9.eE]+)")
     new, nj = pj.subn(lambda m: f"{m.group(1)} = {{{m.group(2)}*fjun}}", new)
     assert nj > 100, nj
-    out.write_text(".param fii = 1\n.param fjun = 1\n" + new, encoding="utf-8", newline="\n")
+    out.write_text(MODIFIED_NOTICE + ".param fii = 1\n.param fjun = 1\n" + new, encoding="utf-8", newline="\n")
     return out
+
+
+# Apache-2.0 section 4(b): a modified copy must say that it was changed. The original header below it is kept.
+MODIFIED_NOTICE = (
+    "* NOTICE: modified copy written by experiments/exp12_filament/spice_tools.py (Silicon Mitosis project, counfield,\n"
+    "* https://counfield.com/, 2026). Changes: every alpha* term is multiplied by {fii}; the junction saturation currents\n"
+    "* (jss, jsws, jswgs, jsd, jswd, jswgd) are multiplied by {fjun}. Original: sky130_fd_pr__nfet_01v8__tt.pm3.spice\n"
+    "* (Copyright 2020 The SkyWater PDK Authors, Apache-2.0; see data/sky130_models/LICENSE-Apache-2.0.txt).\n")
 
 
 def header(fii=1.0, fjun=1.0):

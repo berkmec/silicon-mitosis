@@ -1,3 +1,7 @@
+* NOTICE: modified copy written by experiments/exp12_filament/spice_tools.py (Silicon Mitosis project, counfield,
+* https://counfield.com/, 2026). Changes: every alpha* term is multiplied by {fii}; the junction saturation currents
+* (jss, jsws, jswgs, jsd, jswd, jswgd) are multiplied by {fjun}. Original: sky130_fd_pr__nfet_01v8__tt.pm3.spice
+* (Copyright 2020 The SkyWater PDK Authors, Apache-2.0; see data/sky130_models/LICENSE-Apache-2.0.txt).
 .param fii = 1
 .param fjun = 1
 * Copyright 2020 The SkyWater PDK Authors
