@@ -1,0 +1,23 @@
+* single floating-body nFET, frozen_von1.0_fii10
+.option scale=1e-6
+.temp 27
+.include /mnt/e/quantum_cell/data/sky130_models/nfet_mismatch.spice
+.include /mnt/e/quantum_cell/experiments/exp12_filament/spice/nfet_01v8_tt_fii.spice
+.param fii = 10
+.param fjun = 1e-30
+.model dbody1_10 d is=1.5876e-22 n=1.0
+Vd d 0 0
+Vg g 0 1.05
+Vb bs 0 0
+X1 d g 0 b sky130_fd_pr__nfet_01v8 l=0.15 w=10.0 as=0 ad=0 ps=0 pd=0
+Rsub b bs 1000000000000.0
+Db b 0 dbody1_10
+.control
+save all @m.x1.msky130_fd_pr__nfet_01v8[isub]
+dc Vd 0 2.6 0.01
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/frozen_von1.0_fii10_up.dat -i(Vd) v(b) @m.x1.msky130_fd_pr__nfet_01v8[isub]
+dc Vd 2.6 0 -0.01
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/frozen_von1.0_fii10_dn.dat -i(Vd) v(b) @m.x1.msky130_fd_pr__nfet_01v8[isub]
+quit
+.endc
+.end

@@ -1,0 +1,9 @@
+=== s2c_filaments start 05:53:51
+=== s2c_filaments exit 0 05:53:59
+=== s2e_charging start 05:53:59
+=== s2e_charging exit 0 05:54:07
+=== fig_pareto_gs start 05:54:07
+=== fig_pareto_gs exit 0 05:54:09
+=== s1b2_bsim4_followup start 05:54:09
+=== s1b2_bsim4_followup exit 0 05:54:30
+ALL DONE

@@ -1,0 +1,17 @@
+* junction params
+.option scale=1e-6
+.temp 27
+.include /mnt/e/quantum_cell/data/sky130_models/nfet_mismatch.spice
+.include /mnt/e/quantum_cell/experiments/exp12_filament/spice/nfet_01v8_tt_fii.spice
+.param fjun = 1e-30
+Vd d 0 0
+Vg g 0 0
+Vb b 0 0.72
+X1 d g 0 b sky130_fd_pr__nfet_01v8 l=0.15 w=10 as=0 ad=0 ps=0 pd=0
+.control
+op
+showmod m.x1.msky130_fd_pr__nfet_01v8 : jss jsws jswgs jsd jswd jswgd njs dioMod ijthsfwd xjbvs
+show m.x1.msky130_fd_pr__nfet_01v8 : as ad ps pd w l ibs ibd
+quit
+.endc
+.end

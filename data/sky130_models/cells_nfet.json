@@ -1,0 +1,1058 @@
+[
+  {
+    "name": "sky130_fd_pr__nfet_01v8.bins.csv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8.bins.csv",
+    "sha": "0948a548d390be6c17a948cee1ae5e1903079bd4",
+    "size": 2271,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8.bins.csv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8.bins.csv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/0948a548d390be6c17a948cee1ae5e1903079bd4",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8.bins.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8.bins.csv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/0948a548d390be6c17a948cee1ae5e1903079bd4",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8.bins.csv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8.pm3.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8.pm3.spice",
+    "sha": "2db2e15722b0d53390d30c00364ecc7bbd360621",
+    "size": 407758,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8.pm3.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8.pm3.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/2db2e15722b0d53390d30c00364ecc7bbd360621",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8.pm3.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8.pm3.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/2db2e15722b0d53390d30c00364ecc7bbd360621",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8.pm3.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__ff.corner.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ff.corner.spice",
+    "sha": "43bce33cd856c7d23d8a416e86a7299c0c82b255",
+    "size": 67078,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ff.corner.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ff.corner.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/43bce33cd856c7d23d8a416e86a7299c0c82b255",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ff.corner.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ff.corner.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/43bce33cd856c7d23d8a416e86a7299c0c82b255",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ff.corner.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__ff.pm3.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ff.pm3.spice",
+    "sha": "d55c30b5d1b687dab97f23a315efda4448da05f8",
+    "size": 1113856,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ff.pm3.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ff.pm3.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/d55c30b5d1b687dab97f23a315efda4448da05f8",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ff.pm3.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ff.pm3.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/d55c30b5d1b687dab97f23a315efda4448da05f8",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ff.pm3.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__fs.corner.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__fs.corner.spice",
+    "sha": "836f0784ce9b8cab1b97cd929b33d7161a22db86",
+    "size": 67330,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__fs.corner.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__fs.corner.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/836f0784ce9b8cab1b97cd929b33d7161a22db86",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__fs.corner.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__fs.corner.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/836f0784ce9b8cab1b97cd929b33d7161a22db86",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__fs.corner.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__fs.pm3.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__fs.pm3.spice",
+    "sha": "d83ae4860f6089f37c03d223f6f812b57c6a6ac7",
+    "size": 1113442,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__fs.pm3.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__fs.pm3.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/d83ae4860f6089f37c03d223f6f812b57c6a6ac7",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__fs.pm3.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__fs.pm3.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/d83ae4860f6089f37c03d223f6f812b57c6a6ac7",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__fs.pm3.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__leak.corner.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__leak.corner.spice",
+    "sha": "60508f66a21c0480329569462dea47dfaf82d678",
+    "size": 67910,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__leak.corner.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__leak.corner.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/60508f66a21c0480329569462dea47dfaf82d678",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__leak.corner.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__leak.corner.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/60508f66a21c0480329569462dea47dfaf82d678",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__leak.corner.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__leak.pm3.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__leak.pm3.spice",
+    "sha": "1d662918c506db7cbd5143f71cc169cc934ae8a9",
+    "size": 1125598,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__leak.pm3.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__leak.pm3.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/1d662918c506db7cbd5143f71cc169cc934ae8a9",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__leak.pm3.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__leak.pm3.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/1d662918c506db7cbd5143f71cc169cc934ae8a9",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__leak.pm3.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__mismatch.corner.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__mismatch.corner.spice",
+    "sha": "af4a937389fa5f4361d29c8852140a43a2a41367",
+    "size": 962,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__mismatch.corner.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__mismatch.corner.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/af4a937389fa5f4361d29c8852140a43a2a41367",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__mismatch.corner.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__mismatch.corner.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/af4a937389fa5f4361d29c8852140a43a2a41367",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__mismatch.corner.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__sf.corner.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__sf.corner.spice",
+    "sha": "eb91b0dac6c18f83911429d0714f9068266bf3fb",
+    "size": 67280,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__sf.corner.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__sf.corner.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/eb91b0dac6c18f83911429d0714f9068266bf3fb",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__sf.corner.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__sf.corner.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/eb91b0dac6c18f83911429d0714f9068266bf3fb",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__sf.corner.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__sf.pm3.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__sf.pm3.spice",
+    "sha": "2a3fb94aea3220a9d7b049ffdba7bcfc7b2d4c73",
+    "size": 1115329,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__sf.pm3.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__sf.pm3.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/2a3fb94aea3220a9d7b049ffdba7bcfc7b2d4c73",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__sf.pm3.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__sf.pm3.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/2a3fb94aea3220a9d7b049ffdba7bcfc7b2d4c73",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__sf.pm3.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__ss.corner.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ss.corner.spice",
+    "sha": "cc77cff325af402a8a8dc2934cffdc29ecbf3ea0",
+    "size": 67129,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ss.corner.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ss.corner.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/cc77cff325af402a8a8dc2934cffdc29ecbf3ea0",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ss.corner.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ss.corner.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/cc77cff325af402a8a8dc2934cffdc29ecbf3ea0",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ss.corner.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__ss.pm3.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ss.pm3.spice",
+    "sha": "894ec7592aadd4e6459c8fd74790f6ef2b7ce5b2",
+    "size": 1112058,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ss.pm3.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ss.pm3.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/894ec7592aadd4e6459c8fd74790f6ef2b7ce5b2",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ss.pm3.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ss.pm3.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/894ec7592aadd4e6459c8fd74790f6ef2b7ce5b2",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__ss.pm3.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__subvt_mismatch.corner.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__subvt_mismatch.corner.spice",
+    "sha": "af4a937389fa5f4361d29c8852140a43a2a41367",
+    "size": 962,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__subvt_mismatch.corner.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__subvt_mismatch.corner.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/af4a937389fa5f4361d29c8852140a43a2a41367",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__subvt_mismatch.corner.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__subvt_mismatch.corner.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/af4a937389fa5f4361d29c8852140a43a2a41367",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__subvt_mismatch.corner.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__tt.corner.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt.corner.spice",
+    "sha": "5f3d829aa7c01dc16e0b08e3cd6712bb9a57c25e",
+    "size": 66384,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt.corner.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt.corner.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/5f3d829aa7c01dc16e0b08e3cd6712bb9a57c25e",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt.corner.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt.corner.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/5f3d829aa7c01dc16e0b08e3cd6712bb9a57c25e",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt.corner.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__tt.pm3.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt.pm3.spice",
+    "sha": "657675a10e9a899cfd227220673422fbeda187be",
+    "size": 1109307,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt.pm3.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt.pm3.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/657675a10e9a899cfd227220673422fbeda187be",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt.pm3.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt.pm3.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/657675a10e9a899cfd227220673422fbeda187be",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt.pm3.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__tt_correln.corner.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_correln.corner.spice",
+    "sha": "36c805031523ef53061f55c7d1ba6dd1dd07e60e",
+    "size": 69336,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_correln.corner.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_correln.corner.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/36c805031523ef53061f55c7d1ba6dd1dd07e60e",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_correln.corner.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_correln.corner.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/36c805031523ef53061f55c7d1ba6dd1dd07e60e",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_correln.corner.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__tt_correlp.corner.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_correlp.corner.spice",
+    "sha": "838760a5d6b1561b2132ce8b1cbd7050f7bb8e25",
+    "size": 69335,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_correlp.corner.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_correlp.corner.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/838760a5d6b1561b2132ce8b1cbd7050f7bb8e25",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_correlp.corner.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_correlp.corner.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/838760a5d6b1561b2132ce8b1cbd7050f7bb8e25",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_correlp.corner.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__tt_leak.corner.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_leak.corner.spice",
+    "sha": "a900b0608a6d9e0f8675b86a172b28d6419aebcc",
+    "size": 67350,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_leak.corner.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_leak.corner.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/a900b0608a6d9e0f8675b86a172b28d6419aebcc",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_leak.corner.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_leak.corner.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/a900b0608a6d9e0f8675b86a172b28d6419aebcc",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_leak.corner.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__tt_leak.pm3.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_leak.pm3.spice",
+    "sha": "09f9606920cb9fb7b65b25ede0ea9ce4303d7e20",
+    "size": 1120441,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_leak.pm3.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_leak.pm3.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/09f9606920cb9fb7b65b25ede0ea9ce4303d7e20",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_leak.pm3.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_leak.pm3.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/09f9606920cb9fb7b65b25ede0ea9ce4303d7e20",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__tt_leak.pm3.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8__wafer.corner.spice",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8__wafer.corner.spice",
+    "sha": "c5f97eaa0e38c7060c7fd72424f8f4e00089cc33",
+    "size": 64034,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__wafer.corner.spice?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__wafer.corner.spice",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/c5f97eaa0e38c7060c7fd72424f8f4e00089cc33",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__wafer.corner.spice",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__wafer.corner.spice?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/c5f97eaa0e38c7060c7fd72424f8f4e00089cc33",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8__wafer.corner.spice"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.cdl",
+    "sha": "209d1f54d2cc8499699de5f8624e1f8f84a01689",
+    "size": 924,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/209d1f54d2cc8499699de5f8624e1f8f84a01689",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/209d1f54d2cc8499699de5f8624e1f8f84a01689",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.netlist.tsv",
+    "sha": "7db0d97d4663cf4e522b92aa9fc18f4b93585a4c",
+    "size": 246,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/7db0d97d4663cf4e522b92aa9fc18f4b93585a4c",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/7db0d97d4663cf4e522b92aa9fc18f4b93585a4c",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p15.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.cdl",
+    "sha": "45977496b46aef9997214d0ad54ced21dbee5b8e",
+    "size": 924,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/45977496b46aef9997214d0ad54ced21dbee5b8e",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/45977496b46aef9997214d0ad54ced21dbee5b8e",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.netlist.tsv",
+    "sha": "9b1b57bf70baecfeac7d4a735a8510b74f018a7c",
+    "size": 246,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/9b1b57bf70baecfeac7d4a735a8510b74f018a7c",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/9b1b57bf70baecfeac7d4a735a8510b74f018a7c",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p18.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.cdl",
+    "sha": "75bffce461eadb9c2be0c61a9f8cd521404c502f",
+    "size": 924,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/75bffce461eadb9c2be0c61a9f8cd521404c502f",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/75bffce461eadb9c2be0c61a9f8cd521404c502f",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.netlist.tsv",
+    "sha": "761eb39f29eddec77f0699c5279883be2c769a7f",
+    "size": 246,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/761eb39f29eddec77f0699c5279883be2c769a7f",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/761eb39f29eddec77f0699c5279883be2c769a7f",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W1p65L0p25.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.cdl",
+    "sha": "3cf8d3c2c0af3847caaf9b90bbcedf9b51be035e",
+    "size": 924,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/3cf8d3c2c0af3847caaf9b90bbcedf9b51be035e",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/3cf8d3c2c0af3847caaf9b90bbcedf9b51be035e",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.netlist.tsv",
+    "sha": "67513f20c23640c64e9a9e21419000de04690001",
+    "size": 246,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/67513f20c23640c64e9a9e21419000de04690001",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/67513f20c23640c64e9a9e21419000de04690001",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p15.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.cdl",
+    "sha": "fefc12e988cb71a3fd6f313fac4aabb0c8c6f903",
+    "size": 924,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/fefc12e988cb71a3fd6f313fac4aabb0c8c6f903",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/fefc12e988cb71a3fd6f313fac4aabb0c8c6f903",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.netlist.tsv",
+    "sha": "e3ba55ff4f292ee954d9743e59bc704c8387647c",
+    "size": 246,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/e3ba55ff4f292ee954d9743e59bc704c8387647c",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/e3ba55ff4f292ee954d9743e59bc704c8387647c",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p18.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.cdl",
+    "sha": "a3018a5752e826c268a37b65047e193606888864",
+    "size": 924,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/a3018a5752e826c268a37b65047e193606888864",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/a3018a5752e826c268a37b65047e193606888864",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.netlist.tsv",
+    "sha": "793e3dd38d5b3acd39266456281ffdf14f0ef991",
+    "size": 246,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/793e3dd38d5b3acd39266456281ffdf14f0ef991",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/793e3dd38d5b3acd39266456281ffdf14f0ef991",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W3p00L0p25.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.cdl",
+    "sha": "eea29c5dac9874c17592dc9285fcce4aeb0aaf34",
+    "size": 924,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/eea29c5dac9874c17592dc9285fcce4aeb0aaf34",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/eea29c5dac9874c17592dc9285fcce4aeb0aaf34",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.netlist.tsv",
+    "sha": "271ee26909cd8eefdc1d61540d3c808b6a62b645",
+    "size": 246,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/271ee26909cd8eefdc1d61540d3c808b6a62b645",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/271ee26909cd8eefdc1d61540d3c808b6a62b645",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p15.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.cdl",
+    "sha": "5ed8f6f74a695f64f9bddef5c45fbe7209d5bb01",
+    "size": 924,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/5ed8f6f74a695f64f9bddef5c45fbe7209d5bb01",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/5ed8f6f74a695f64f9bddef5c45fbe7209d5bb01",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.netlist.tsv",
+    "sha": "50507d96372d5bfbf65a65a316daf4b09fb00ec7",
+    "size": 246,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/50507d96372d5bfbf65a65a316daf4b09fb00ec7",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/50507d96372d5bfbf65a65a316daf4b09fb00ec7",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p18.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.cdl",
+    "sha": "8b4d7544d07e4752b1dfd844c50921e19b11ab06",
+    "size": 924,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/8b4d7544d07e4752b1dfd844c50921e19b11ab06",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/8b4d7544d07e4752b1dfd844c50921e19b11ab06",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.netlist.tsv",
+    "sha": "d2569caefbd6d9daa19273346c2feb78fa29b002",
+    "size": 246,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/d2569caefbd6d9daa19273346c2feb78fa29b002",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/d2569caefbd6d9daa19273346c2feb78fa29b002",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM02W5p00L0p25.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.cdl",
+    "sha": "01030aa6321a472dccf7c6ea7e7b997d0f9d34c6",
+    "size": 1052,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/01030aa6321a472dccf7c6ea7e7b997d0f9d34c6",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/01030aa6321a472dccf7c6ea7e7b997d0f9d34c6",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.netlist.tsv",
+    "sha": "7a91b53295143bb971f1f42d9e9f4e21c0062395",
+    "size": 378,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/7a91b53295143bb971f1f42d9e9f4e21c0062395",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/7a91b53295143bb971f1f42d9e9f4e21c0062395",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p15.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.cdl",
+    "sha": "6b60f93049bc4e7c64de189724a2ab677022d8b7",
+    "size": 1052,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/6b60f93049bc4e7c64de189724a2ab677022d8b7",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/6b60f93049bc4e7c64de189724a2ab677022d8b7",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.netlist.tsv",
+    "sha": "67f11c3800bf01fbf4a32794289d08b60c3fed50",
+    "size": 378,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/67f11c3800bf01fbf4a32794289d08b60c3fed50",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/67f11c3800bf01fbf4a32794289d08b60c3fed50",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p18.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.cdl",
+    "sha": "c0f7dc23c05a79ee65a7427552348c84b559c4e3",
+    "size": 1052,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/c0f7dc23c05a79ee65a7427552348c84b559c4e3",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/c0f7dc23c05a79ee65a7427552348c84b559c4e3",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.netlist.tsv",
+    "sha": "bc06516d0679b3e685203ebc9f90a8ef7e20bc2d",
+    "size": 378,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/bc06516d0679b3e685203ebc9f90a8ef7e20bc2d",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/bc06516d0679b3e685203ebc9f90a8ef7e20bc2d",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W1p65L0p25.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.cdl",
+    "sha": "0fe7eb0297adf05a8748847df21bf776f4dfda76",
+    "size": 1052,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/0fe7eb0297adf05a8748847df21bf776f4dfda76",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/0fe7eb0297adf05a8748847df21bf776f4dfda76",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.netlist.tsv",
+    "sha": "41172fe7972dd9480b4d6fb3114c2c4ff3add7f5",
+    "size": 378,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/41172fe7972dd9480b4d6fb3114c2c4ff3add7f5",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/41172fe7972dd9480b4d6fb3114c2c4ff3add7f5",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p15.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.cdl",
+    "sha": "0fda2591a764863dce53c2540949b92bdff52dfe",
+    "size": 1052,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/0fda2591a764863dce53c2540949b92bdff52dfe",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/0fda2591a764863dce53c2540949b92bdff52dfe",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.netlist.tsv",
+    "sha": "8343d2fa9a204a14fff00e5ba6f5157d9e85fa0b",
+    "size": 378,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/8343d2fa9a204a14fff00e5ba6f5157d9e85fa0b",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/8343d2fa9a204a14fff00e5ba6f5157d9e85fa0b",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p18.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.cdl",
+    "sha": "e3fd42b37e36c4c4096add41dd1e907a73f77c4b",
+    "size": 1052,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/e3fd42b37e36c4c4096add41dd1e907a73f77c4b",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/e3fd42b37e36c4c4096add41dd1e907a73f77c4b",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.netlist.tsv",
+    "sha": "d27fb3674e9cd13352d90a831ad1473e5d35732f",
+    "size": 378,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/d27fb3674e9cd13352d90a831ad1473e5d35732f",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/d27fb3674e9cd13352d90a831ad1473e5d35732f",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W3p00L0p25.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.cdl",
+    "sha": "4f2ae4fc3e8c65b365936a01caf2a1f6e8063d97",
+    "size": 1052,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/4f2ae4fc3e8c65b365936a01caf2a1f6e8063d97",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/4f2ae4fc3e8c65b365936a01caf2a1f6e8063d97",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.netlist.tsv",
+    "sha": "a3ecf23ee90a5af9f2363e74ca6090727c79f7ff",
+    "size": 378,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/a3ecf23ee90a5af9f2363e74ca6090727c79f7ff",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/a3ecf23ee90a5af9f2363e74ca6090727c79f7ff",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p15.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.cdl",
+    "sha": "f288e95f452465645fca9095dd7bf211f5bd0678",
+    "size": 1052,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/f288e95f452465645fca9095dd7bf211f5bd0678",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/f288e95f452465645fca9095dd7bf211f5bd0678",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.netlist.tsv",
+    "sha": "3da522d026e8efb1b337505f0d114a7a646e93c8",
+    "size": 378,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/3da522d026e8efb1b337505f0d114a7a646e93c8",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/3da522d026e8efb1b337505f0d114a7a646e93c8",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p18.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.cdl",
+    "sha": "dfe6b698d08ba3935a0def951c9f087bc72eba8e",
+    "size": 1052,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/dfe6b698d08ba3935a0def951c9f087bc72eba8e",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/dfe6b698d08ba3935a0def951c9f087bc72eba8e",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.netlist.tsv",
+    "sha": "845dfa7622e62cbd56ca4bb4c38e7ccf597ac1d8",
+    "size": 378,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/845dfa7622e62cbd56ca4bb4c38e7ccf597ac1d8",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/845dfa7622e62cbd56ca4bb4c38e7ccf597ac1d8",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_aM04W5p00L0p25.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.cdl",
+    "sha": "43601f01aee8f708ab0cbe8c3197dca84d04b166",
+    "size": 1054,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/43601f01aee8f708ab0cbe8c3197dca84d04b166",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/43601f01aee8f708ab0cbe8c3197dca84d04b166",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.netlist.tsv",
+    "sha": "fbf922337c551b969e86aaf783642d777b442cbd",
+    "size": 379,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/fbf922337c551b969e86aaf783642d777b442cbd",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/fbf922337c551b969e86aaf783642d777b442cbd",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W3p00L0p15.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.cdl",
+    "sha": "1d4b55b665330a5a52a9cfb72975d8bb6b4f304b",
+    "size": 1054,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/1d4b55b665330a5a52a9cfb72975d8bb6b4f304b",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/1d4b55b665330a5a52a9cfb72975d8bb6b4f304b",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.netlist.tsv",
+    "sha": "68ea987d4f424a8376f5925df169cab1b8cf8558",
+    "size": 379,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/68ea987d4f424a8376f5925df169cab1b8cf8558",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/68ea987d4f424a8376f5925df169cab1b8cf8558",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_hcM04W5p00L0p15.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.cdl",
+    "sha": "66529fda6f35404d12d0167e07f572832b003fa2",
+    "size": 1054,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/66529fda6f35404d12d0167e07f572832b003fa2",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/66529fda6f35404d12d0167e07f572832b003fa2",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.netlist.tsv",
+    "sha": "029a374d142a10ba9cd24f1128617f23bae68d77",
+    "size": 379,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/029a374d142a10ba9cd24f1128617f23bae68d77",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/029a374d142a10ba9cd24f1128617f23bae68d77",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W3p00L0p15.netlist.tsv"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.cdl",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.cdl",
+    "sha": "c24942c31927488aa4e2beb19317c5320fb84946",
+    "size": 1054,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.cdl?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.cdl",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/c24942c31927488aa4e2beb19317c5320fb84946",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.cdl",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.cdl?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/c24942c31927488aa4e2beb19317c5320fb84946",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.cdl"
+    }
+  },
+  {
+    "name": "sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.netlist.tsv",
+    "path": "cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.netlist.tsv",
+    "sha": "be5c29b4b28cca587f11ad06ff3d7e0b99589cd1",
+    "size": 379,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.netlist.tsv?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.netlist.tsv",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/be5c29b4b28cca587f11ad06ff3d7e0b99589cd1",
+    "download_url": "https://raw.githubusercontent.com/google/skywater-pdk-libs-sky130_fd_pr/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.netlist.tsv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.netlist.tsv?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/blobs/be5c29b4b28cca587f11ad06ff3d7e0b99589cd1",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/blob/main/cells/nfet_01v8/sky130_fd_pr__nfet_01v8_mcM04W5p00L0p15.netlist.tsv"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "cells/nfet_01v8/tests",
+    "sha": "6ed01ba3559a626ed2d2f6d27ffc159efcf7c015",
+    "size": 0,
+    "url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/tests?ref=main",
+    "html_url": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/tree/main/cells/nfet_01v8/tests",
+    "git_url": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/trees/6ed01ba3559a626ed2d2f6d27ffc159efcf7c015",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/contents/cells/nfet_01v8/tests?ref=main",
+      "git": "https://api.github.com/repos/google/skywater-pdk-libs-sky130_fd_pr/git/trees/6ed01ba3559a626ed2d2f6d27ffc159efcf7c015",
+      "html": "https://github.com/google/skywater-pdk-libs-sky130_fd_pr/tree/main/cells/nfet_01v8/tests"
+    }
+  }
+]

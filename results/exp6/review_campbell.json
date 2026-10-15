@@ -1,0 +1,20 @@
+{
+ "nominal_1.7e17": {
+  "sigma_fixed_mV": 15.273216811643575,
+  "center_minus_y_edge_meV": 48.617563075667206,
+  "center_minus_x_edge_meV": 42.53008253576055,
+  "center_minus_corner_meV": 70.66737777850007,
+  "sigma_psi_MC_mV": 20.551614156365513,
+  "fixed_fraction_of_variance": 0.5522925160095696,
+  "sigma_random_mV": 13.75127967342136
+ },
+ "effective_3.9e17": {
+  "sigma_fixed_mV": 24.14148197686613,
+  "center_minus_y_edge_meV": 75.75189260489392,
+  "center_minus_x_edge_meV": 71.2416308026379,
+  "center_minus_corner_meV": 112.9277290396476,
+  "sigma_psi_MC_mV": 31.472154685164398,
+  "fixed_fraction_of_variance": 0.5884030281391738,
+  "sigma_random_mV": 20.19122008417429
+ }
+}

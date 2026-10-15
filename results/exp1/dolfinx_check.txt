@@ -1,0 +1,5 @@
+dolfinx 0.9.0: nodes=1597 dofs_in=206 dofs_out=790
+C_dolfinx = 12.8519479305
+C_skfem   = 12.8519479305
+|dolfinx-skfem|/skfem = 8.293e-16
+C_analytic = 12.5663706144  (dolfinx hatası 2.273e-02)

@@ -1,0 +1,106 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: * list instance outputs
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+No. of Data Rows : 1
+ BSIM4v5: Berkeley Short Channel IGFET Model-4
+     device m.x1.msky130_fd_pr__n
+      model x1:sky130_fd_pr__nfet
+          l               1.5e-07
+          w                 1e-06
+          m                     1
+         nf                     1
+         sa                     0
+         sb                     0
+         sd                     0
+        sca                     0
+        scb                     0
+        scc                     0
+         sc                     0
+        min                     0
+         ad                     0
+         as                     0
+         pd                     0
+         ps                     0
+        nrd                     0
+        nrs                     0
+        off                     0
+       rbdb                    50
+       rbsb                    50
+       rbpb                    50
+       rbps                    50
+       rbpd                    50
+     delvto                     0
+      mulu0                     1
+        xgw                     0
+      ngcon                     1
+   trnqsmod                     0
+   acnqsmod                     0
+   rbodymod                     1
+   rgatemod                     0
+     geomod                     0
+    rgeomod                     0
+       gmbs            0.00013898
+         gm           0.000517386
+        gds           3.65764e-05
+      vdsat              0.251899
+        vth              0.666674
+         id           0.000228883
+        ibd             -1.41e-12
+        ibs            1.5684e-09
+        gbd                 1e-12
+        gbs           4.68952e-08
+       isub           5.07092e-08
+      igidl                     0
+      igisl                     0
+        igs                     0
+        igd                     0
+        igb                     0
+       igcs                     0
+       igcd                     0
+        vbs              0.400001
+        vgs                   1.2
+        vds                   1.8
+        cgg           8.51003e-16
+        cgs          -6.91162e-16
+        cgd           8.78068e-21
+        cbg          -1.88425e-16
+        cbd          -3.50727e-20
+        cbs          -1.93691e-16
+        cdg          -2.65091e-16
+        cdd           4.88182e-20
+        cds           3.53999e-16
+        csg          -3.97487e-16
+        csd          -2.25262e-20
+        css           5.30853e-16
+        cgb           -1.5985e-16
+        cdb          -8.89567e-17
+        csb          -1.33344e-16
+        cbb           3.82151e-16
+      capbd           1.15766e-16
+      capbs           2.81194e-16
+         qg           1.05314e-15
+         qb          -6.05704e-16
+         qd          -1.79005e-16
+         qs          -2.68433e-16
+       qinv                     0
+       qdef                     0
+       gcrg                     0
+       gtau                     0
+    vgsteff               0.53289
+     vdseff              0.250284
+       cgso           2.46313e-16
+       cgdo           2.46313e-16
+       cgbo           1.30242e-20
+       weff           9.56282e-07
+       leff           1.26136e-07
+
+i(vd) = -2.28934e-04
+i(vb) = 4.914221e-08
+ngspice-44.2 done

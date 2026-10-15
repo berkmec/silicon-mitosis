@@ -1,0 +1,115 @@
+run,sinif,bolunme_turu,N_max,N_son,bolunme_olayi,t_bolunme,R_bolunme,en_boy_max,T_ikilenme,durma
+A2_charge_A0.001_d1,"tek, hâlâ değişiyor",,1,1,0,,,1.055747531771107,,T sonu
+A2_charge_A0.001_d3,"tek, hâlâ değişiyor",,1,1,0,,,1.055747531771107,,T sonu
+A2_charge_A0.001_dinf,"tek, hâlâ değişiyor",,1,1,0,,,1.0599645199887273,,T sonu
+A2_charge_A0.003_d1,"tek, hâlâ değişiyor",,1,1,0,,,1.055747531771107,,T sonu
+A2_charge_A0.003_d3,"tek, hâlâ değişiyor",,1,1,0,,,1.0421548315568343,,T sonu
+A2_charge_A0.003_dinf,"tek, hâlâ değişiyor",,1,1,0,,,1.0622752523101595,,T sonu
+A2_charge_A0.01_d1,"tek, hâlâ değişiyor",,1,1,0,,,1.050456805894738,,T sonu
+A2_charge_A0.01_d3,"tek, hâlâ değişiyor",,1,1,0,,,1.0598646665040314,,T sonu
+A2_charge_A0.01_dinf,spinodal doğum,,2,2,0,,,1.0630971255634762,,T sonu
+A2_eq_A0.003_dinf,"tek, kararlı",,1,1,0,,,1.1151307488184647,,durağan
+A2_eq_A0.01_dinf,"solucan (uzadı, kopmadı)",,1,1,0,,,5.419112121619639,,T sonu
+A2_leaky_A0.003_d1,"tek, kararlı",,1,1,0,,,1.4578833042509127,,durağan
+A2_leaky_A0.003_dinf,"tek, kararlı",,1,1,0,,,1.3971499564554815,,durağan
+A3_charge_J0.0001_A0.003_d1,spinodal doğum,,21,21,0,,,1.0610943252135934,,N>=12
+A3_charge_J0.0001_A0.003_dinf,spinodal doğum,,23,23,0,,,1.0712380866500544,,N>=12
+A3_charge_J0.0001_A0.01_dinf,spinodal doğum,,31,31,0,,,1.0677725621518956,,N>=12
+A3_charge_J0.0001_A0_dinf,spinodal doğum,,25,25,0,,,1.0527036380706805,,N>=12
+A3_charge_J0.0005_A0.003_d1,spinodal doğum,,30,30,0,,,1.0562290418141038,,N>=12
+A3_charge_J0.0005_A0.003_dinf,spinodal doğum,,41,41,0,,,1.0611372476022658,,N>=12
+A3_charge_J0.0005_A0.01_dinf,spinodal doğum,,41,41,0,,,1.0630118371026498,,N>=12
+A3_charge_J0.0005_A0_dinf,spinodal doğum,,31,31,0,,,1.0489395642426949,,N>=12
+A3_charge_J0.002_A0.003_d1,spinodal doğum,,13,13,0,,,1.0103739600000818,,N>=12
+A3_charge_J0.002_A0.003_dinf,spinodal doğum,,18,18,0,,,1.016058543390146,,N>=12
+A3_charge_J0.002_A0.01_dinf,spinodal doğum,,24,24,0,,,1.0071801812159535,,N>=12
+A3_charge_J0.002_A0_dinf,spinodal doğum,,18,18,0,,,1.0112584872567236,,N>=12
+A_charge_A0.02_d1,"tek, hâlâ değişiyor",,1,1,0,,,1.0608205643727597,,T sonu
+A_charge_A0.02_d3,çözündü,,1,0,0,,,1.0472678512341538,,çözündü
+A_charge_A0.02_dinf,çözündü,,1,0,0,,,1.073158120628352,,çözündü
+A_charge_A0.08_d1,çözündü,,1,0,0,,,1.0165063782132846,,çözündü
+A_charge_A0.08_d3,çözündü,,1,0,0,,,1.0,,çözündü
+A_charge_A0.08_dinf,çözündü,,1,0,0,,,1.0,,çözündü
+A_charge_A0_dinf,"tek, hâlâ değişiyor",,1,1,0,,,1.055747531771107,,T sonu
+A_eq_A0.02_dinf,çözündü,,1,0,0,,,1.2185105327681094,,çözündü
+A_eq_A0.08_dinf,çözündü,,1,0,0,,,1.0930457065673989,,çözündü
+A_leaky_A0.02_d1,"tek, kararlı",,1,1,0,,,1.3959357620860067,,durağan
+A_leaky_A0.02_d3,"tek, kararlı",,1,1,0,,,1.465183466303131,,durağan
+A_leaky_A0.02_dinf,"tek, kararlı",,1,1,0,,,1.4079747073451647,,durağan
+A_leaky_A0.08_d1,"tek, kararlı",,1,1,0,,,1.3780077447150023,,durağan
+A_leaky_A0.08_d3,bölündü,büyük başlangıç damlası bölündü,2,0,1,250.0,8.0,1.0943695545413008,,çözündü
+A_leaky_A0.08_dinf,çözündü,,1,0,0,,,1.0,,çözündü
+B_e0.08_d+0.000,çözündü,,1,0,0,,,1.0,,
+B_e0.08_d+0.002,çözündü,,1,0,0,,,1.0,,
+B_e0.08_d+0.004,çözündü,,1,0,0,,,1.0,,
+B_e0.08_d-0.002,çözündü,,1,0,0,,,1.0,,
+B_e0.08_d-0.004,"tek, kararlı",,1,1,0,,,1.0,,
+B_e0.08_d-0.006,"tek, kararlı",,1,1,0,,,1.0,,
+B_e0.11_d+0.000,"tek, kararlı",,1,1,0,,,1.2090477274225484,,durağan
+B_e0.11_d+0.002,çözündü,,1,0,0,,,1.0,,
+B_e0.11_d+0.004,çözündü,,1,0,0,,,1.0,,
+B_e0.11_d-0.002,"tek, kararlı",,1,1,0,,,1.0,,
+B_e0.11_d-0.004,"tek, kararlı",,1,1,0,,,1.0,,
+B_e0.11_d-0.006,"solucan (uzadı, kopmadı)",,1,1,0,,,1.0,,
+B_e0.14_d+0.000,"tek, kararlı",,1,1,0,,,1.2984396918278702,,durağan
+B_e0.14_d+0.002,"tek, kararlı",,1,1,0,,,1.2698189600835073,,durağan
+B_e0.14_d+0.004,"tek, kararlı",,1,1,0,,,1.1534869799374217,,durağan
+B_e0.14_d-0.002,"tek, kararlı",,1,1,0,,,1.2922961446639065,,durağan
+B_e0.14_d-0.004,"solucan (uzadı, kopmadı)",,1,1,0,,,20.60205753411278,,durağan
+B_e0.14_d-0.006,"solucan (uzadı, kopmadı)",,1,1,0,,,2.5327791265666524,,durağan
+B_e0.17_d+0.000,"tek, kararlı",,1,1,0,,,1.4578833042509127,,durağan
+B_e0.17_d+0.002,"tek, kararlı",,1,1,0,,,1.3962725447701905,,durağan
+B_e0.17_d+0.004,bölündü,büyük başlangıç damlası bölündü,2,1,1,250.0,8.0,1.1534869799374217,,durağan
+B_e0.17_d-0.002,"solucan (uzadı, kopmadı)",,1,1,0,,,22.805138612943214,,T sonu
+B_e0.17_d-0.004,"solucan (uzadı, kopmadı)",,1,1,0,,,4.787741088171378,,T sonu
+B_e0.17_d-0.006,"solucan (uzadı, kopmadı)",,1,1,0,,,1.5402120570281534,,durağan
+B_e0.20_d+0.000,"solucan (uzadı, kopmadı)",,1,1,0,,,27.64231799019595,,T sonu
+B_e0.20_d+0.002,"tek, kararlı",,1,1,0,,,1.6066247801825477,,durağan
+B_e0.20_d+0.004,bölündü,büyük başlangıç damlası bölündü,2,2,1,250.0,8.0,1.966697071097309,,durağan
+B_e0.20_d-0.002,bölündü,solucan/şerit → kopma,2,2,1,19000.0,24.34365277855138,19.054161283334658,,T sonu
+B_e0.20_d-0.004,"solucan (uzadı, kopmadı)",,1,1,0,,,2.4823799031872777,,T sonu
+B_e0.20_d-0.006,"solucan (uzadı, kopmadı)",,1,1,0,,,1.2217072505303737,,durağan
+B_paper_L128,"solucan (uzadı, kopmadı)",,1,1,0,,,23.184326274632177,,T sonu
+B_paper_L192,"solucan (uzadı, kopmadı)",,1,1,0,,,36.0598976843906,,T sonu
+GS_F0.010_k0.045,söndü,,1,0,,,,,,
+GS_F0.010_k0.050,çoğalan lekeler,,27,20,,,,,,
+GS_F0.010_k0.055,söndü,,0,0,,,,,,
+GS_F0.010_k0.059,söndü,,0,0,,,,,,
+GS_F0.010_k0.063,söndü,,0,0,,,,,,
+GS_F0.010_k0.067,söndü,,0,0,,,,,,
+GS_F0.018_k0.045,şerit/labirent,,2,0,,,,,,
+GS_F0.018_k0.050,az leke,,14,1,,,,,,
+GS_F0.018_k0.055,çoğalan lekeler,,53,52,,,,,,
+GS_F0.018_k0.059,söndü,,0,0,,,,,,
+GS_F0.018_k0.063,söndü,,0,0,,,,,,
+GS_F0.018_k0.067,söndü,,0,0,,,,,,
+GS_F0.026_k0.045,düzgün,,1,0,,,,,,
+GS_F0.026_k0.050,düzgün,,1,0,,,,,,
+GS_F0.026_k0.055,şerit/labirent,,4,3,,,,,,
+GS_F0.026_k0.059,çoğalan lekeler,,85,67,,,,,702.6935576097585,
+GS_F0.026_k0.063,söndü,,0,0,,,,,,
+GS_F0.026_k0.067,söndü,,0,0,,,,,,
+GS_F0.034_k0.045,düzgün,,1,0,,,,,,
+GS_F0.034_k0.050,düzgün,,1,0,,,,,,
+GS_F0.034_k0.055,düzgün,,1,0,,,,,,
+GS_F0.034_k0.059,şerit/labirent,,8,6,,,,,,
+GS_F0.034_k0.063,çoğalan lekeler,,69,69,,,,,2198.9678984272086,
+GS_F0.034_k0.067,söndü,,0,0,,,,,,
+GS_F0.042_k0.045,düzgün,,1,0,,,,,,
+GS_F0.042_k0.050,düzgün,,1,0,,,,,,
+GS_F0.042_k0.055,düzgün,,1,0,,,,,,
+GS_F0.042_k0.059,şerit/labirent,,1,0,,,,,,
+GS_F0.042_k0.063,çoğalan lekeler,,21,20,,,,,,
+GS_F0.042_k0.067,söndü,,0,0,,,,,,
+GS_F0.050_k0.045,düzgün,,1,0,,,,,,
+GS_F0.050_k0.050,düzgün,,1,0,,,,,,
+GS_F0.050_k0.055,düzgün,,1,0,,,,,,
+GS_F0.050_k0.059,düzgün,,1,0,,,,,,
+GS_F0.050_k0.063,şerit/labirent,,8,1,,,,,,
+GS_F0.050_k0.067,söndü,,0,0,,,,,,
+GS_F0.058_k0.045,düzgün,,1,0,,,,,,
+GS_F0.058_k0.050,düzgün,,1,0,,,,,,
+GS_F0.058_k0.055,düzgün,,1,0,,,,,,
+GS_F0.058_k0.059,düzgün,,1,0,,,,,,
+GS_F0.058_k0.063,şerit/labirent,,1,0,,,,,,
+GS_F0.058_k0.067,söndü,,0,0,,,,,,

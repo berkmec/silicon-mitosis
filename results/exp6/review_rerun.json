@@ -1,0 +1,102 @@
+{
+ "nominal_1.7e17": {
+  "orijinal kural (x-kenarları, kubbe dahil)": {
+   "strict": "3/80",
+   "strict_pct": 3.75,
+   "strict_CI95_pct": [
+    0.7801187265716695,
+    10.570198501650859
+   ],
+   "optimistic": "6/80",
+   "optimistic_pct": 7.5,
+   "optimistic_CI95_pct": [
+    2.802054617684123,
+    15.612793173607212
+   ]
+  },
+  "tüm kenarlar, kubbe dahil": {
+   "strict": "0/80",
+   "strict_pct": 0.0,
+   "strict_CI95_pct": [
+    0.0,
+    4.506403506769228
+   ],
+   "optimistic": "0/80",
+   "optimistic_pct": 0.0,
+   "optimistic_CI95_pct": [
+    0.0,
+    4.506403506769228
+   ]
+  },
+  "tüm kenarlar, kubbe çıkarılmış": {
+   "strict": "31/80",
+   "strict_pct": 38.75,
+   "strict_CI95_pct": [
+    28.05651331247821,
+    50.30244574981009
+   ],
+   "optimistic": "36/80",
+   "optimistic_pct": 45.0,
+   "optimistic_CI95_pct": [
+    33.848638448981546,
+    56.5326020905847
+   ]
+  },
+  "kubbe çıkarılmış, katı noktalar": {
+   "n": 39,
+   "a_median_nm": 40.64480286580315,
+   "aspect_median": 1.960392158129632
+  },
+  "sigma_random_rms_mV": null
+ },
+ "effective_3.9e17": {
+  "orijinal kural (x-kenarları, kubbe dahil)": {
+   "strict": "3/80",
+   "strict_pct": 3.75,
+   "strict_CI95_pct": [
+    0.7801187265716695,
+    10.570198501650859
+   ],
+   "optimistic": "10/80",
+   "optimistic_pct": 12.5,
+   "optimistic_CI95_pct": [
+    6.160209655843424,
+    21.78891340694363
+   ]
+  },
+  "tüm kenarlar, kubbe dahil": {
+   "strict": "0/80",
+   "strict_pct": 0.0,
+   "strict_CI95_pct": [
+    0.0,
+    4.506403506769228
+   ],
+   "optimistic": "0/80",
+   "optimistic_pct": 0.0,
+   "optimistic_CI95_pct": [
+    0.0,
+    4.506403506769228
+   ]
+  },
+  "tüm kenarlar, kubbe çıkarılmış": {
+   "strict": "76/80",
+   "strict_pct": 95.0,
+   "strict_CI95_pct": [
+    87.69012635568471,
+    98.62106060235382
+   ],
+   "optimistic": "79/80",
+   "optimistic_pct": 98.75,
+   "optimistic_CI95_pct": [
+    93.23122155360775,
+    99.96835774723672
+   ]
+  },
+  "kubbe çıkarılmış, katı noktalar": {
+   "n": 184,
+   "a_median_nm": 35.12832460603119,
+   "aspect_median": 1.7568829466685005
+  },
+  "sigma_random_rms_mV": null
+ }
+}

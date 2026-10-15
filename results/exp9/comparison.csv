@@ -1,0 +1,65 @@
+grup,olcum,model,referans,oran,karar,note,kaynak
+A. Elektrostatik ve kapasitans,Küre kapasitör: FEM (h=0.05) / analitik 4πab/(b−a),12.6078,12.5664,1.003,uyumlu,yakınsama eğimi 1.91 (beklenen ≈2),exp1/validate_sphere.json; analitik formül
+A. Elektrostatik ve kapasitans,"scikit-fem / dolfinx, aynı mesh (h=0.14)",12.8519479305,12.8519479305,1,uyumlu,iki bağımsız kod; tam hassasiyetli bağıl fark 8.29e-16,exp1/dolfinx_check.txt
+A. Elektrostatik ve kapasitans,"Hücre kapasitansı c_Σ(r=0,5): seviye 3 / seviye 2",22.989,23.214,0.9903,uyumlu (yakınsıyor),iç yakınsama; dış referans yok,exp1/cap_cell_A.csv
+A. Elektrostatik ve kapasitans,"Zincir ada bloğu, seviye 1 → 2 en büyük göreli değişim",0.041,0 (yakınsamış olmalı),,yakınsamamış,zincir sonuçları ±%4 üst sınır; mesh daha da inceltilmeli,exp2/chain.json
+A. Elektrostatik ve kapasitans,"Tek akseptör potansiyeli 3B FEM / görüntü modeli, z=10 nm, r=0",-10.27 mV,-8.73 mV,1.176,tutarsız → ampirik düzeltme,fark -17.6 %; düzeltme faktörü bu üç derinliğe uyduruldu,exp6/fem_check.json
+A. Elektrostatik ve kapasitans,"Tek akseptör potansiyeli 3B FEM / görüntü modeli, z=30 nm, r=0",-1.88 mV,-1.75 mV,1.073,kısmen tutarlı,fark -7.3 %; düzeltme faktörü bu üç derinliğe uyduruldu,exp6/fem_check.json
+A. Elektrostatik ve kapasitans,"Tek akseptör potansiyeli 3B FEM / görüntü modeli, z=60 nm, r=0",-0.40 mV,-0.38 mV,1.037,kısmen tutarlı,fark -3.7 %; düzeltme faktörü bu üç derinliğe uyduruldu,exp6/fem_check.json
+A. Elektrostatik ve kapasitans,"Aynı, z=10 nm, r=40 nm (düzeltme dışı)",-0.58 mV,-0.62 mV,0.9359,tutarsız (düzeltme modellemiyor),"fark +6.4 %; düzeltme exp(−r²) ile sönüyor, büyük r'de kalıntı var",exp6/fem_check.json
+B. Yük enerjisi E_C ölçeği,"E_C/k_B, 12,5 nm kapılı hücre: FEM ε=3,9 ↔ 11,7 bandı, exp0 analitik ile",31–94 K,"75 K (exp0, karışık ε)",,tutarlı (exp0 band içinde),"ε belirsizliği yaklaşık ×3, bu sayısal hatadan çok daha büyük",exp0/generations.csv; exp1/transport.json
+B. Yük enerjisi E_C ölçeği,"Kapı etkisi: izole küre (çap 12,5 nm, ε=3,9) / kapılı hücre (FEM)",343 K (izole),94 K (kapılı),3.659,bilgi (tasarım sonucu),kapı E_C'yi yaklaşık bu oranda düşürüyor; büyük E_C için kapısız ada gerekir,analitik (izole küre) + exp1 FEM
+B. Yük enerjisi E_C ölçeği,"Literatür L4: ~1,8 nm Si küme, E_C ≈ 300 meV (özet) / izole küre R=0,9 nm, ε=3,9",205 meV,300 meV,0.6837,tanıma/ortam bağlı,literatür değeri ε≈2.7 ortamda uyuşur; fark ortam dielektriğiyle açıklanır (L4 doğrulanmadı),arXiv 1802.09800 özeti (L4)
+B. Yük enerjisi E_C ölçeği,"Literatür L3: 5 nm Si ada, 300 K'de Coulomb elmasları (özet) / izole küre R=2,5 nm",E/k_BT(300 K) = 857 K / 300 K = 2.86,300 K'de elmas görülüyor (nicel değer yok),,karşılaştırılamaz (nicel yok); yönsel olarak tutarlı,"marjinal; L3 özet, doğrulanmadı",Shin vd. 2011 özeti (L3)
+B. Yük enerjisi E_C ölçeği,"Kapılı hücre, 300 K için gerekli E_C/k_B (10·T) / model (12,5 nm)",94 K,3000 K,0.03123,uyumlu (negatif sonuç sağlam),ölçek ~30× kısa; ε belirsizliği (×3) bunu değiştirmez,exp1/transport.json
+C. Kuantum hapsolma (Schrödinger),"Sert duvar küp (3,6,6,6,9) en ince mesh: en büyük bağıl hata",1.67e-03,0 (analitik),,uyumlu,h=0.3,exp1/schrodinger.json
+C. Kuantum hapsolma (Schrödinger),"Ayrılabilir sonlu kuyu, 3·E1D (analitik), en ince mesh",0.36740 eV,0.36713 eV,1.001,uyumlu,bağıl hata 7.4e-04,exp1/schrodinger.json
+C. Kuantum hapsolma (Schrödinger),"Gerçek Si/SiO₂ kuyusu (L=2 nm) E1 mesh değişimi, son adım",6.57e-04,0,,yakınsadı,iç yakınsama,exp1/schrodinger.json
+C. Kuantum hapsolma (Schrödinger),"Sert duvar ΔE / FEM ΔE, L=1 nm",4.339 eV,1.454 eV,2.983,uyumsuz (formül geçersiz),sert duvar formülü küçük L'de ~3× şişiriyor,exp1/schrodinger.json
+C. Kuantum hapsolma (Schrödinger),"Sert duvar ΔE / FEM ΔE, L=3 nm",0.482 eV,0.334 eV,1.443,uyumsuz (şişirme),,exp1/schrodinger.json
+C. Kuantum hapsolma (Schrödinger),"Deney 0 ΔE (sert duvar, 12,5 nm) / FEM ΔE (aynı nesil)",322 K,279 K,1.153,uyumsuz (%15 şişirme),exp0 analitik ön hesabı FEM ile değiştirildi,exp0/generations.csv; exp1/transport.json
+C. Kuantum hapsolma (Schrödinger),Literatür seviye ayrışması (kuyu boyu ~1–10 nm),—,veri yok,,veri yok,bu oturumda nicel literatür değeri alınamadı,—
+D. Tünel bağlaşımı,"Δ bozunma κ: FEM fit / WKB, L=1 nm",4.91 /nm,4.41 /nm,1.114,uyumlu (~%10),,exp4/stage1.json
+D. Tünel bağlaşımı,"Δ bozunma κ: FEM fit / WKB, L=2 nm",5.89 /nm,5.69 /nm,1.034,uyumlu (~%3),,exp4/stage1.json
+D. Tünel bağlaşımı,"Δ (L=1 nm, d=0,5 nm, SiO₂ bariyeri 3,1 eV)",49.6 meV,literatür gate-tanımlı Si çift nokta değeri alınamadı,,karşılaştırılamaz,"bariyer türü farklı (oksit, elektrostatik değil)",exp3/dqd.json
+E. Dinamik yükleme,"Landau–Zener diyabatik geçiş, γ = 0,1–4: en büyük mutlak hata",1.2e-03,0 (analitik e^{−γ}),,uyumlu,sayısal DOP853 ↔ analitik,exp4/stage1.json
+E. Dinamik yükleme,"Lindblad 300 K transfer (en iyi geometri), 10 ps sweep, 1 ps dephasing",0.723,0.811 (termal denge),0.8911,tutarlılık kontrolü (referans yok),transfer termal denge değerine yaklaşıyor,exp4/stage1.json
+F. Eşik gerilimi (1B Poisson–Schrödinger),"V_g (n_s = 10¹² cm⁻², sabit yük), ndep = 1,7e17 / BSIM4 vth0",0.5131 V,0.5190 V,0.9885,uyumlu (tanıma bağlı),fark ≈ %1; sabit-yük tanımı bir seçimdir,exp5/mos1d.json; model dosyası (vth0)
+F. Eşik gerilimi (1B Poisson–Schrödinger),"V_T doğrusal ekstrapolasyon, ndep = 1,7e17 / vth0",0.3385 V,0.5190 V,0.6521,"tanıma bağlı, uyumsuz","iki tanım 0,18 V ayrışıyor",exp5/mos1d.json
+F. Eşik gerilimi (1B Poisson–Schrödinger),Kalibre N_eff (V_T doğrusal = vth0) / resmî ndep,3.92e+17 cm⁻³,1.70e+17 cm⁻³,2.307,geçersiz (kalibrasyon),kalibrasyon yalnızca doğrusal tanıma uyar; sabit-yük tanımında resmî ndep zaten uyumlu,exp5/mos1d.json; model dosyası
+F. Eşik gerilimi (1B Poisson–Schrödinger),"C_inv / C_ox (öz-uyumlu, nominal)",0.750 µF/cm²,0.832 µF/cm²,0.9006,uyumlu (C_inv < C_ox),beklenen yön,exp5/mos1d.json
+G. Katkı potansiyeli ve kazara nokta,σ_ψ arayüz potansiyeli: görüntü modeli / FEM-düzeltmeli (nominal),20.6 mV,28.6 mV,0.7188,model belirsizliği ~%40,düzeltme seçimine bağlı,exp6/rdf.json
+G. Katkı potansiyeli ve kazara nokta,Kendi kontrolü: duyarlılık koşusunda ZCAP=1 ↔ exp6 düzeltmeli (nominal),28.59 mV,28.59 mV,1,uyumlu (yeniden üretim),aynı tohum ve örnekler; tek fark kıskaç,exp6/cap_sensitivity.json
+G. Katkı potansiyeli ve kazara nokta,Duyarlılık: z ≥ 10 nm kıskacı / kıskaçsız (nominal),22.09 mV,28.59 mV,0.7726,duyarlı,z<10 nm'de düzeltme extrapole ediliyor,exp6/cap_sensitivity.json
+G. Katkı potansiyeli ve kazara nokta,"Duyarlılık: z ≥ 10 nm kıskacı / kıskaçsız (efektif 3,9e17)",33.89 mV,43.85 mV,0.7727,duyarlı,efektif doping'de z<10 nm payı daha büyük,exp6/cap_sensitivity.json
+G. Katkı potansiyeli ve kazara nokta,"Kazara nokta oranı (katı), z ≥ 10 nm kıskacı, nominal",2.50 %,kıskaçsız: 3.75 %,0.6667,belirsiz/duyarlı,kıskaç ekstrapolasyona bağlı; alt uç,exp6/cap_sensitivity.json
+G. Katkı potansiyeli ve kazara nokta,"Kazara nokta oranı (katı), z ≥ 10 nm kıskacı, efektif 3,9e17",6.25 %,kıskaçsız: 10.00 %,0.625,belirsiz/duyarlı,alt uç; üst uç kıskaçsız değer,exp6/cap_sensitivity.json
+G. Katkı potansiyeli ve kazara nokta,"σ_VT (RDF MC, nominal) / Stolk formülü (bellekten)",3.94 mV,5.66 mV,0.6949,uyumsuz (~%30),"Stolk formülü bellekten, doğrulanmadı; tanım farkı olabilir",exp6/rdf.json; L15
+G. Katkı potansiyeli ve kazara nokta,"σ_VT (RDF MC, nominal) / foundry vth0 eğimi (V·µm varsayımı)",3.94 mV,13.37 mV,0.2944,birim varsayımına bağlı,RDF toplamın ~1/3'ü; birim V·µm değilse bu karşılaştırma geçersiz,model dosyası (mismatch); L11
+G. Katkı potansiyeli ve kazara nokta,"σ_VT (oksit kalınlığı, σ_tox = 0,057 nm, 1B çözücü)",6.54 mV,13.37 mV,0.4889,bilgi,RDF ile birlikte kareler toplamı: 7.6 mV (foundry'nin ~%57'i),exp5 çözücüsü; model dosyası toxe_slope
+G. Katkı potansiyeli ve kazara nokta,"Kazara nokta oranı (katı ölçüt), görüntü, nominal",3.8 %,iyimser: 7.5 %,,geçersiz/şüpheli (T-bağımsız),modelde oran sıcaklıktan bağımsız; oysa iyonlaşma T ile değişir (bkz. H),exp6/rdf.json
+G. Katkı potansiyeli ve kazara nokta,"Kazara nokta oranı (katı), FEM-düzeltmeli, efektif 3,9e17",10.0 %,iyimser: 21.2 %,,geçersiz/şüpheli (T-bağımsız),en yüksek tahmin; düzeltme ekstrapolasyonuna bağlı,exp6/rdf.json
+G. Katkı potansiyeli ve kazara nokta,"Kazara nokta E_C/k_B (ε_eff = 7,8 ölçeklemesi), medyan, düzeltmeli efektif",29 K,"L1: 14 K'de CB tümseği (28 nm PMOS, özet; nicel yok)",,karşılaştırılamaz (nicel),ε_eff ölçeklemesi kaba; geometri uyumsuz,exp6/rdf.json; L1
+G. Katkı potansiyeli ve kazara nokta,14 K'de Coulomb görünürlüğü (E_C = 25 / 34 / 40 K),0.04 / 0.14 / 0.25,L1: 14 K'de tümsek gözlendi (özet),,yönsel uyumlu (E_C/kT ≈ 2–3),L1 nicel değer vermiyor; E_C ≳ 3kT gerekir,yeniden hesap (exp7 yöntemi); L1
+H. Düşük sıcaklık: iyonlaşma,"NA / Mott kritik yoğunluk (B için ≈ 3,7·10¹⁸ cm⁻³, bellekten)",1.70e+17 cm⁻³,3.7e+18 cm⁻³,0.04595,geçersiz (4 K'de yalıtkan rejim),"NA < N_c: 4 K'de katkılar tam iyonlaşmaz; model tam iyonlaşma varsayar. 77 K şüpheli, 300 K makul",exp6 model varsayımı; L17 (bellekten)
+I. Test planı,"Görünürlük, E_C=34 K, 4 K: exp7 / bağımsız yeniden hesap",0.986,0.986,1,tutarlı (yeniden hesap),exp7 ile aynı yöntem,exp7/testplan.json
+I. Test planı,"Görünürlük, E_C=34 K, 10 K (exp7)",0.395,—,,bilgi,"E_C/kT = 3,4",exp7/testplan.json
+I. Test planı,≥3 pozitif aygıtı %95 olasılıkla görmek için n (p = %4),156,—,,tasarım bilgisi,p tahmininin kendisi H maddesine bağlı,exp7/testplan.json
+J. Bölünme ve bifurkasyon (soyut 2B),"Fisyon eşiği üssü, d = ∞ / Rayleigh (−1, bellekten)",-1.08,"−1,00",1.077,uyumlu (ızgara ±%45),"g ızgarası geometrik (×1,45 aralık)",exp8/fission_scan*.json; L16
+J. Bölünme ve bifurkasyon (soyut 2B),"Fisyon eşiği üssü, d = 4 ve d = 2 (gate ekranlaması)",-0.73 / -0.90,—,,bilgi,gate ekranlaması eğimi değiştiriyor,exp8/fission_scan_d*.json
+J. Bölünme ve bifurkasyon (soyut 2B),"Bifurkasyon genlik üssü / beklenen 0,5 (süperkritik çatal)",0.502,"0,500",1.003,uyumlu,doğrulanmış,exp8/pf_validation.json
+J. Bölünme ve bifurkasyon (soyut 2B),"A_c (φ̄=0, d=∞): sayısal / analitik",0.38490,0.38490,1,uyumlu,,exp8/pf_validation.json
+J. Bölünme ve bifurkasyon (soyut 2B),Lineer büyüme σ(q): en büyük bağıl hata,3.2e-03,0,,uyumlu,5 dalga sayısı,exp8/pf_validation.json
+J. Bölünme ve bifurkasyon (soyut 2B),"Hazır tek domain (disk, çubuk, elips) × 4 A, t=3000: n sonucu",n = [1],bölünme beklentisi yok,,negatif (kayıt),"çözündü veya küçüldü, bölünmedi",exp8/division_diag.json
+J. Bölünme ve bifurkasyon (soyut 2B),"A_c(d=1,5) / A_c(∞), φ̄=0",0.4846,0.3849,1.259,bilgi,gate yaklaşınca A_c artıyor,exp8/selection.json
+K. Resmî veri ve tasarım parametreleri,"Poly genişliği (çizilen L = 150 nm) / SKY130 kuralı 0,150 µm","0,150 µm","0,150 µm (poly.1a)",1,uyumlu,SkyWater kural sayfası,"L9 (birincil sayfa, araçla okundu)"
+K. Resmî veri ve tasarım parametreleri,Etkin kanal L = 150 − 2·lint / model kullanımı (126 nm),126.1 nm,126 nm (model),1.001,uyumlu,lint = 11.93 nm (resmî dosya),L10
+K. Resmî veri ve tasarım parametreleri,"W = 420 nm (model) / doc-tablo minimum W (0,42 µm)","0,42 µm",tablo örneği (kural değil),,doğrulanmadı,docs e-test tablosunda örnek; kural olarak doğrulanmadı,L9
+K. Resmî veri ve tasarım parametreleri,toxe (resmî) / Cox hesabında kullanılan,4.148 nm,4.148 nm,1,uyumlu (aynı kaynak),,L10
+K. Resmî veri ve tasarım parametreleri,NIST SKY130 kriyojenik veri: 4 K var mı?,kayıt okundu (v1.1.2),dosyalar indirilemedi (Cloudflare 524),,veri yok (erişim),"ETest Tile.zip 3,8 MB, MPW-5 Test Tile.zip 39 MB, README",L5; data/nist_sky130/
+K. Resmî veri ve tasarım parametreleri,77 K / 4 K SKY130 ölçümleri (literatür),—,77 K modelleme özeti var; 4 K yok,,veri yok,UTA CPAD 2025 posteri,L6
+K. Resmî veri ve tasarım parametreleri,130 / 180 nm Coulomb blokajı raporu,—,aramada bulunamadı,,veri yok,"bu arama sonucu, yokluk kanıtı değil",arama
+K. Resmî veri ve tasarım parametreleri,28 nm FDSOI 4 K transistör verisi (SKY130 değil),—,arXiv 2002.07070 özeti,,kısmen (farklı süreç),karşılaştırma için yakın bir süreç; nicel değer alınmadı,L7
+L. İç tutarlılık,Birim testleri (pytest),"20 passed, 6 warnings in 7.25s",tümü geçmeli,,uyumlu,bu betik çalıştırdı,tests/
+L. İç tutarlılık,LJ7/13/19 global minimumları: en büyük hata,4.4e-07,literatür,,uyumlu,basin hopping,exp8/fission_scan.json
+L. İç tutarlılık,"E_C zincir (12 nm ada, exp2) / tek hücre (12 nm, exp1)",119.8 K,97.6 K,1.228,geometri farkı; tutarlılık sınırlı,zincirde komşu adalar C^-1 köşegenini büyütüyor,exp2/chain.json; exp1

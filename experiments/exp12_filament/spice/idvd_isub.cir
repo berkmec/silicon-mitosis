@@ -1,0 +1,17 @@
+* SKY130 nfet_01v8 (official BSIM4 card, tt) at 300 K: Id-Vds and impact-ionization substrate current
+.option scale=1e-6
+.temp 27
+.include /mnt/e/quantum_cell/data/sky130_models/nfet_mismatch.spice
+.include /mnt/e/quantum_cell/data/sky130_models/nfet_01v8_tt.pm3.spice
+Vd d 0 0
+Vg g 0 1.2
+Vs s 0 0
+Vb b 0 0
+X1 d g s b sky130_fd_pr__nfet_01v8 l=0.15 w=1
+.control
+save all @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+dc Vd 0 2.5 0.05 Vg 0.6 1.8 0.6
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/idvd_isub.dat -i(Vd) @m.x1.msky130_fd_pr__nfet_01v8[isub] i(Vb) @m.x1.msky130_fd_pr__nfet_01v8[vth]
+quit
+.endc
+.end

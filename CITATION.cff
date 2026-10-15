@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Silicon Mitosis: self-dividing current filaments in SKY130 silicon and dimension-dependent division in active matter"
+type: software
+authors:
+  - name: "counfield"
+    website: "https://counfield.com/"
+repository-code: "https://github.com/berkmec/silicon-mitosis"
+url: "https://counfield.com/"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-15"
+abstract: >-
+  Model and simulation study of current filaments in a wide, ballasted SKY130 nFET (reduced 4 K model built from the
+  foundry BSIM4 card with ngspice). A filament splits when the drain voltage at its centre reaches the lowest voltage at
+  which the latched state exists; this gives a parameter-free split law w_s = 2 lambda ln[lambda / (lambda - lambda_c)],
+  validated against pre-registered simulations. Also: dimension-dependent division of active Cahn-Hilliard droplets up to a
+  6D hypercube, phase-space plasma holes, and equation discovery from data. The original room-temperature quantum goal is
+  documented as currently unsuccessful.
+keywords:
+  - SKY130
+  - current filaments
+  - pattern formation
+  - self-replication
+  - Cahn-Hilliard
+  - active droplets
+  - reaction-diffusion
+  - open-source PDK

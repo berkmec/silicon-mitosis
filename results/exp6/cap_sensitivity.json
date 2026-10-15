@@ -1,0 +1,30 @@
+{
+  "nominal_1.7e17_ZCAP1": {
+    "zcap_nm": 1.0,
+    "sigma_psi_mV": 28.590897326958224,
+    "sigma_VT_MC_mV": 4.366985253798389,
+    "strict_frac": 0.0375,
+    "seconds": 154.3
+  },
+  "nominal_1.7e17_ZCAP10": {
+    "zcap_nm": 10.0,
+    "sigma_psi_mV": 22.090693417520303,
+    "sigma_VT_MC_mV": 4.126601080193073,
+    "strict_frac": 0.025,
+    "seconds": 154.4
+  },
+  "effective_3.9e17_ZCAP1": {
+    "zcap_nm": 1.0,
+    "sigma_psi_mV": 43.85481938914508,
+    "sigma_VT_MC_mV": 5.06580766482225,
+    "strict_frac": 0.1,
+    "seconds": 232.1
+  },
+  "effective_3.9e17_ZCAP10": {
+    "zcap_nm": 10.0,
+    "sigma_psi_mV": 33.8872518326414,
+    "sigma_VT_MC_mV": 4.776205462546879,
+    "strict_frac": 0.0625,
+    "seconds": 219.1
+  }
+}

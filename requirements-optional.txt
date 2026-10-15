@@ -1,0 +1,4 @@
+# equation discovery (Exp16, Exp17 symbolic regression); use a separate environment
+pysindy==2.1.0
+scikit-learn==1.9.1
+gplearn==0.4.3

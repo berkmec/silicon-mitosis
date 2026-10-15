@@ -1,0 +1,110 @@
+{
+ "warm_300K_contacted": {
+  "knobs": {
+   "fii": 1,
+   "dvt": 0.0,
+   "von": 0.6,
+   "rsub": 1000.0,
+   "fjun": 1.0
+  },
+  "errors": [],
+  "vb_max_up": 0.0196219162,
+  "vd_at_largest_vb_jump_up": 2.6,
+  "largest_vb_jump_up": 0.0005815835999999977,
+  "hysteresis_vd_range": null,
+  "id_at_1p8_up_uA": 2165.29567,
+  "id_at_1p8_dn_uA": 2165.29567
+ },
+ "frozen_bsimdiode_on": {
+  "knobs": {
+   "fii": 1,
+   "dvt": 0.15,
+   "von": 1.0,
+   "rsub": 1000000000000.0,
+   "fjun": 1.0
+  },
+  "errors": [],
+  "vb_max_up": 0.718622828,
+  "vd_at_largest_vb_jump_up": 0.9,
+  "largest_vb_jump_up": 0.009000913,
+  "hysteresis_vd_range": null,
+  "id_at_1p8_up_uA": 2137.79044,
+  "id_at_1p8_dn_uA": 2137.79044
+ },
+ "frozen_von1.0_fii1": {
+  "knobs": {
+   "fii": 1,
+   "dvt": 0.15,
+   "von": 1.0,
+   "rsub": 1000000000000.0
+  },
+  "errors": [],
+  "vb_max_up": 0.718622828,
+  "vd_at_largest_vb_jump_up": 0.9,
+  "largest_vb_jump_up": 0.009000913,
+  "hysteresis_vd_range": null,
+  "id_at_1p8_up_uA": 2137.79044,
+  "id_at_1p8_dn_uA": 2137.79044
+ },
+ "frozen_von1.0_fii10": {
+  "knobs": {
+   "fii": 10,
+   "dvt": 0.15,
+   "von": 1.0,
+   "rsub": 1000000000000.0
+  },
+  "errors": [],
+  "vb_max_up": 0.800387148,
+  "vd_at_largest_vb_jump_up": 0.82,
+  "largest_vb_jump_up": 0.01113439699999999,
+  "hysteresis_vd_range": null,
+  "id_at_1p8_up_uA": 2275.23036,
+  "id_at_1p8_dn_uA": 2275.23036
+ },
+ "frozen_von0.8_fii1": {
+  "knobs": {
+   "fii": 1,
+   "dvt": 0.15,
+   "von": 0.8,
+   "rsub": 1000000000000.0
+  },
+  "errors": [],
+  "vb_max_up": 0.717942389,
+  "vd_at_largest_vb_jump_up": 0.9,
+  "largest_vb_jump_up": 0.00900035099999999,
+  "hysteresis_vd_range": null,
+  "id_at_1p8_up_uA": 2137.3961799999997,
+  "id_at_1p8_dn_uA": 2137.3961799999997
+ },
+ "frozen_von1.0_fii1_n0.3": {
+  "knobs": {
+   "fii": 1,
+   "dvt": 0.15,
+   "von": 1.0,
+   "rsub": 1000000000000.0,
+   "n": 0.3
+  },
+  "errors": [],
+  "vb_max_up": 0.415351892,
+  "vd_at_largest_vb_jump_up": 0.9,
+  "largest_vb_jump_up": 0.009000834000000013,
+  "hysteresis_vd_range": null,
+  "id_at_1p8_up_uA": 1825.87066,
+  "id_at_1p8_dn_uA": 1825.87066
+ },
+ "frozen_von1.0_fii1_rsub1e9": {
+  "knobs": {
+   "fii": 1,
+   "dvt": 0.15,
+   "von": 1.0,
+   "rsub": 1000000000.0
+  },
+  "errors": [],
+  "vb_max_up": 0.718621655,
+  "vd_at_largest_vb_jump_up": 1.08,
+  "largest_vb_jump_up": 0.03476928900000001,
+  "hysteresis_vd_range": null,
+  "id_at_1p8_up_uA": 2137.73866,
+  "id_at_1p8_dn_uA": 2137.73866
+ }
+}

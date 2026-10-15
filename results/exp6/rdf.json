@@ -1,0 +1,166 @@
+{
+  "checks": {
+    "single_charge_diff_V": 0.0,
+    "image_convergence_max_mV": 1.2036081573224
+  },
+  "nominal_1.7e17": {
+    "na_cm3": 1.7e+17,
+    "W_dep_nm": 80.9,
+    "mean_dopants": 727.80876,
+    "sigma_surface_potential_mV": 20.551614156365513,
+    "sigma_VT_MC_mV": 3.9360745785839475,
+    "sigma_VT_Stolk_mV": 5.664531300467872,
+    "n_classical_isolated_puddles": 47,
+    "frac_samples_with_classical_puddle": 0.475,
+    "bound_strict": {
+      "n": 3,
+      "frac_samples": 0.0375,
+      "a_nm_median": 23.2379000772445,
+      "a_nm_p10_p90": [
+        20.24245096714324,
+        26.054121071864344
+      ],
+      "EC_over_kB_K_median": 25.17439175034821,
+      "EC_over_kB_K_p10_p90": [
+        22.52485952046494,
+        29.04277178886225
+      ],
+      "E1_meV_median": 7.330057069814904
+    },
+    "bound_optimistic": {
+      "n": 6,
+      "frac_samples": 0.075,
+      "a_nm_median": 18.290798090126493,
+      "a_nm_p10_p90": [
+        15.195106216501436,
+        24.9980381988819
+      ],
+      "EC_over_kB_K_median": 32.122201176679475,
+      "EC_over_kB_K_p10_p90": [
+        23.518434106671165,
+        38.68500390543393
+      ],
+      "E1_meV_median": 11.985990940403898
+    }
+  },
+  "nominal_1.7e17_FEMcorr": {
+    "na_cm3": 1.7e+17,
+    "W_dep_nm": 80.9,
+    "mean_dopants": 727.80876,
+    "sigma_surface_potential_mV": 28.590897326958224,
+    "sigma_VT_MC_mV": 4.366985253798389,
+    "sigma_VT_Stolk_mV": 5.664531300467872,
+    "n_classical_isolated_puddles": 69,
+    "frac_samples_with_classical_puddle": 0.625,
+    "bound_strict": {
+      "n": 3,
+      "frac_samples": 0.0375,
+      "a_nm_median": 23.40939982143925,
+      "a_nm_p10_p90": [
+        22.28187996428785,
+        24.343009128199064
+      ],
+      "EC_over_kB_K_median": 24.989961488215258,
+      "EC_over_kB_K_p10_p90": [
+        24.04064223288818,
+        26.270719570370325
+      ],
+      "E1_meV_median": 7.223048937408847
+    },
+    "bound_optimistic": {
+      "n": 6,
+      "frac_samples": 0.075,
+      "a_nm_median": 19.366600265340757,
+      "a_nm_p10_p90": [
+        15.360084111177404,
+        23.99290563816413
+      ],
+      "EC_over_kB_K_median": 30.77567295697005,
+      "EC_over_kB_K_p10_p90": [
+        24.396636953635834,
+        38.096679412262304
+      ],
+      "E1_meV_median": 11.157350740565366
+    }
+  },
+  "effective_3.9e17": {
+    "na_cm3": 3.92e+17,
+    "W_dep_nm": 54.6,
+    "mean_dopants": 1132.657344,
+    "sigma_surface_potential_mV": 31.472154685164398,
+    "sigma_VT_MC_mV": 4.5205177052455925,
+    "sigma_VT_Stolk_mV": 7.06650408393033,
+    "n_classical_isolated_puddles": 79,
+    "frac_samples_with_classical_puddle": 0.6125,
+    "bound_strict": {
+      "n": 4,
+      "frac_samples": 0.0375,
+      "a_nm_median": 17.260245761630692,
+      "a_nm_p10_p90": [
+        15.935522193923909,
+        18.24804452612926
+      ],
+      "EC_over_kB_K_median": 33.90246209864415,
+      "EC_over_kB_K_p10_p90": [
+        32.078800897737246,
+        36.774548012718874
+      ],
+      "E1_meV_median": 13.297627882334666
+    },
+    "bound_optimistic": {
+      "n": 11,
+      "frac_samples": 0.125,
+      "a_nm_median": 15.491933384829668,
+      "a_nm_p10_p90": [
+        14.0,
+        17.549928774784245
+      ],
+      "EC_over_kB_K_median": 37.76158762552231,
+      "EC_over_kB_K_p10_p90": [
+        33.3334686144441,
+        41.785714285714285
+      ],
+      "E1_meV_median": 16.492628407083533
+    }
+  },
+  "effective_3.9e17_FEMcorr": {
+    "na_cm3": 3.92e+17,
+    "W_dep_nm": 54.6,
+    "mean_dopants": 1132.657344,
+    "sigma_surface_potential_mV": 43.85481938914508,
+    "sigma_VT_MC_mV": 5.06580766482225,
+    "sigma_VT_Stolk_mV": 7.06650408393033,
+    "n_classical_isolated_puddles": 109,
+    "frac_samples_with_classical_puddle": 0.675,
+    "bound_strict": {
+      "n": 8,
+      "frac_samples": 0.1,
+      "a_nm_median": 20.342179216479465,
+      "a_nm_p10_p90": [
+        15.453040818101933,
+        21.88064129802481
+      ],
+      "EC_over_kB_K_median": 28.771590859663107,
+      "EC_over_kB_K_p10_p90": [
+        26.759789045921032,
+        37.857188276432915
+      ],
+      "E1_meV_median": 9.57905185259902
+    },
+    "bound_optimistic": {
+      "n": 18,
+      "frac_samples": 0.2125,
+      "a_nm_median": 15.427112440283441,
+      "a_nm_p10_p90": [
+        13.28999516857743,
+        21.050712289332935
+      ],
+      "EC_over_kB_K_median": 37.920922043706646,
+      "EC_over_kB_K_p10_p90": [
+        27.79422288221183,
+        44.06323375670395
+      ],
+      "E1_meV_median": 16.632396444431702
+    }
+  }
+}

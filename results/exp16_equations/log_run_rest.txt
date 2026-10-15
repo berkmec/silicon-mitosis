@@ -1,0 +1,19 @@
+=== s1c_exp10_hf start 05:39:31
+=== s1c_exp10_hf exit 0 05:39:54
+=== s1d_exp1 start 05:39:54
+=== s1d_exp1 exit 0 05:40:00
+=== s1b_bsim4 start 05:40:00
+=== s1b_bsim4 exit 0 05:44:01
+=== s1a2_weak_reduced start 05:44:01
+=== s1a2_weak_reduced exit 0 05:47:05
+=== s2e_charging start 05:47:05
+=== s2e_charging exit 0 05:47:10
+=== s2c_filaments start 05:47:10
+=== s2c_filaments exit 1 05:47:15
+=== s2d_scaling start 05:47:15
+=== s2d_scaling exit 0 05:47:19
+=== s2b_gs_count start 05:47:19
+=== s2b_gs_count exit 0 05:51:19
+=== s2a_droplets start 05:51:19
+=== s2a_droplets exit 1 05:53:50
+ALL DONE

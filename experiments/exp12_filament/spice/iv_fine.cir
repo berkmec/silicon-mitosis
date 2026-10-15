@@ -1,0 +1,45 @@
+* SKY130 nfet_01v8 tt, 300 K: Id and Isub on a (Vgs, Vds, Vbs) fine grid, Vbs 0..0.9, L = 0.15 um, W = 1 um (per-um currents)
+.option scale=1e-6
+.temp 27
+.include /mnt/e/quantum_cell/data/sky130_models/nfet_mismatch.spice
+.include /mnt/e/quantum_cell/data/sky130_models/nfet_01v8_tt.pm3.spice
+Vd d 0 0
+Vg g 0 1.2
+Vs s 0 0
+Vb b 0 0
+X1 d g s b sky130_fd_pr__nfet_01v8 l=0.15 w=1
+.control
+save all @m.x1.msky130_fd_pr__nfet_01v8[isub]
+alter vb dc = 0.0
+dc Vd 0 2.6 0.05 Vg 0.5 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/fine_vb0.0.dat -i(Vd) @m.x1.msky130_fd_pr__nfet_01v8[isub] i(Vb)
+alter vb dc = 0.1
+dc Vd 0 2.6 0.05 Vg 0.5 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/fine_vb0.1.dat -i(Vd) @m.x1.msky130_fd_pr__nfet_01v8[isub] i(Vb)
+alter vb dc = 0.2
+dc Vd 0 2.6 0.05 Vg 0.5 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/fine_vb0.2.dat -i(Vd) @m.x1.msky130_fd_pr__nfet_01v8[isub] i(Vb)
+alter vb dc = 0.3
+dc Vd 0 2.6 0.05 Vg 0.5 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/fine_vb0.3.dat -i(Vd) @m.x1.msky130_fd_pr__nfet_01v8[isub] i(Vb)
+alter vb dc = 0.4
+dc Vd 0 2.6 0.05 Vg 0.5 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/fine_vb0.4.dat -i(Vd) @m.x1.msky130_fd_pr__nfet_01v8[isub] i(Vb)
+alter vb dc = 0.5
+dc Vd 0 2.6 0.05 Vg 0.5 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/fine_vb0.5.dat -i(Vd) @m.x1.msky130_fd_pr__nfet_01v8[isub] i(Vb)
+alter vb dc = 0.6
+dc Vd 0 2.6 0.05 Vg 0.5 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/fine_vb0.6.dat -i(Vd) @m.x1.msky130_fd_pr__nfet_01v8[isub] i(Vb)
+alter vb dc = 0.7
+dc Vd 0 2.6 0.05 Vg 0.5 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/fine_vb0.7.dat -i(Vd) @m.x1.msky130_fd_pr__nfet_01v8[isub] i(Vb)
+alter vb dc = 0.8
+dc Vd 0 2.6 0.05 Vg 0.5 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/fine_vb0.8.dat -i(Vd) @m.x1.msky130_fd_pr__nfet_01v8[isub] i(Vb)
+alter vb dc = 0.9
+dc Vd 0 2.6 0.05 Vg 0.5 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/fine_vb0.9.dat -i(Vd) @m.x1.msky130_fd_pr__nfet_01v8[isub] i(Vb)
+quit
+.endc
+.end

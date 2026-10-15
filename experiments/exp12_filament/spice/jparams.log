@@ -1,0 +1,38 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: * junction params
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+No. of Data Rows : 1
+ BSIM4v5 models (Berkeley Short Channel IGFET Model-4)
+      model x1:sky130_fd_pr__nfet
+
+        jss              2.75e-33
+       jsws                 6e-40
+      jswgs                     0
+        jsd              2.75e-33
+       jswd                 6e-40
+      jswgd                     0
+        njs                1.2928
+     diomod                     1
+   ijthsfwd                   0.1
+      xjbvs                     1
+
+ BSIM4v5: Berkeley Short Channel IGFET Model-4
+     device m.x1.msky130_fd_pr__n
+      model x1:sky130_fd_pr__nfet
+         as                     0
+         ad                     0
+         ps                     0
+         pd                     0
+          w                 1e-05
+          l               1.5e-07
+        ibs           2.19249e-05
+        ibd           2.19249e-05
+
+ngspice-44.2 done

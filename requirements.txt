@@ -1,0 +1,13 @@
+# core (tested with Python 3.11)
+numpy==2.4.6
+scipy==1.17.1
+matplotlib==3.11.2
+scikit-fem==12.0.2
+meshio==5.3.5
+gmsh==4.15.2
+qiskit==2.5.2
+qiskit-aer==0.17.2
+sympy==1.14.0
+pytest==9.1.1
+# external tools (not pip): ngspice 44.2 + SkyWater sky130_fd_pr models (Exp12 tables are included);
+# FEniCSx/dolfinx (only for a cross-check in Exp1)

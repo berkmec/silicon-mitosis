@@ -1,0 +1,6 @@
+A_tek-vadi_g2_ε̄_xc(DMC) | support ['z^-1', 'z^-0.5', '1', 'z^0.5', 'z^1', 'z^1.5', 'z^2'] | coef {'z^-1': -0.00828, 'z^-0.5': -1.73279, '1': 2.04849, 'z^0.5': -1.07056, 'z^1': 0.60367, 'z^1.5': -0.17078, 'z^2': 0.01871} | R2val 0.993194 | loglog p -0.5537 | (1-K)/rs 0.584
+B_Si_g4_HF_ε̄ | support ['z^-0.5', '1'] | coef {'z^-0.5': -1.65335, '1': 1.0} | R2val 1.0 | loglog p -0.5 | (1-K)/rs 0.63662
+C_Si_g4_HF_kapı | support ['z^-1', 'z^-0.5'] | coef {'z^-1': 0.03675, 'z^-0.5': -0.82877} | R2val -384.0528 | loglog p -0.2803 | (1-K)/rs 0.42257
+D_Si_g4_HF_kapı+korelasyon(vekil) | support ['z^-0.5', '1'] | coef {'z^-0.5': -1.67195, '1': 0.82144} | R2val 0.993038 | loglog p -0.4893 | (1-K)/rs 0.67028
+E_Si_g4_HF_kapı+korelasyon+FangHoward | support ['z^-0.5', '1'] | coef {'z^-0.5': -1.69001, '1': 1.27578} | R2val 0.991865 | loglog p -0.5666 | (1-K)/rs 0.62511
+analytic B: {'alpha': np.float64(0.6366197723675814), 'coef_z_m05': np.float64(-1.6533433482214133), 'const': 1.0, 'formula': 'K/K_kin = 1 - (sqrt(g)/pi) r_s = 1 - (2/pi) r_s(1e12) z^-1/2, g = 4', 'rel_err_coef_z_m05': np.float64(-6.250186293596619e-06), 'rel_err_const': 1.0948797424248369e-11}

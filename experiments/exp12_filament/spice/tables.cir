@@ -1,0 +1,50 @@
+* SKY130 nfet_01v8 tt 300 K: BSIM4 channel current id, isub, ibs, ibd, vth; W = 1 um, L = 0.15 um
+.option scale=1e-6
+.temp 27
+.include /mnt/e/quantum_cell/data/sky130_models/nfet_mismatch.spice
+.include /mnt/e/quantum_cell/experiments/exp12_filament/spice/nfet_01v8_tt_fii.spice
+.param fii = 1.0
+.param fjun = 1.0
+
+Vd d 0 0
+Vg g 0 1.2
+Vb b 0 0
+X1 d g 0 b sky130_fd_pr__nfet_01v8 l=0.15 w=1
+.control
+save all @m.x1.msky130_fd_pr__nfet_01v8[id] @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[ibs] @m.x1.msky130_fd_pr__nfet_01v8[ibd] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+alter vb dc = 0.0
+dc Vd 0 2.6 0.05 Vg 0.3 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/tab_vb0.0.dat @m.x1.msky130_fd_pr__nfet_01v8[id] @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[ibs] @m.x1.msky130_fd_pr__nfet_01v8[ibd] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+alter vb dc = 0.1
+dc Vd 0 2.6 0.05 Vg 0.3 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/tab_vb0.1.dat @m.x1.msky130_fd_pr__nfet_01v8[id] @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[ibs] @m.x1.msky130_fd_pr__nfet_01v8[ibd] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+alter vb dc = 0.2
+dc Vd 0 2.6 0.05 Vg 0.3 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/tab_vb0.2.dat @m.x1.msky130_fd_pr__nfet_01v8[id] @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[ibs] @m.x1.msky130_fd_pr__nfet_01v8[ibd] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+alter vb dc = 0.3
+dc Vd 0 2.6 0.05 Vg 0.3 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/tab_vb0.3.dat @m.x1.msky130_fd_pr__nfet_01v8[id] @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[ibs] @m.x1.msky130_fd_pr__nfet_01v8[ibd] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+alter vb dc = 0.4
+dc Vd 0 2.6 0.05 Vg 0.3 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/tab_vb0.4.dat @m.x1.msky130_fd_pr__nfet_01v8[id] @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[ibs] @m.x1.msky130_fd_pr__nfet_01v8[ibd] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+alter vb dc = 0.5
+dc Vd 0 2.6 0.05 Vg 0.3 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/tab_vb0.5.dat @m.x1.msky130_fd_pr__nfet_01v8[id] @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[ibs] @m.x1.msky130_fd_pr__nfet_01v8[ibd] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+alter vb dc = 0.6
+dc Vd 0 2.6 0.05 Vg 0.3 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/tab_vb0.6.dat @m.x1.msky130_fd_pr__nfet_01v8[id] @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[ibs] @m.x1.msky130_fd_pr__nfet_01v8[ibd] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+alter vb dc = 0.7
+dc Vd 0 2.6 0.05 Vg 0.3 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/tab_vb0.7.dat @m.x1.msky130_fd_pr__nfet_01v8[id] @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[ibs] @m.x1.msky130_fd_pr__nfet_01v8[ibd] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+alter vb dc = 0.8
+dc Vd 0 2.6 0.05 Vg 0.3 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/tab_vb0.8.dat @m.x1.msky130_fd_pr__nfet_01v8[id] @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[ibs] @m.x1.msky130_fd_pr__nfet_01v8[ibd] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+alter vb dc = 0.9
+dc Vd 0 2.6 0.05 Vg 0.3 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/tab_vb0.9.dat @m.x1.msky130_fd_pr__nfet_01v8[id] @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[ibs] @m.x1.msky130_fd_pr__nfet_01v8[ibd] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+alter vb dc = 1.0
+dc Vd 0 2.6 0.05 Vg 0.3 1.8 0.05
+wrdata /mnt/e/quantum_cell/experiments/exp12_filament/spice/tab_vb1.0.dat @m.x1.msky130_fd_pr__nfet_01v8[id] @m.x1.msky130_fd_pr__nfet_01v8[isub] @m.x1.msky130_fd_pr__nfet_01v8[ibs] @m.x1.msky130_fd_pr__nfet_01v8[ibd] @m.x1.msky130_fd_pr__nfet_01v8[vth]
+quit
+.endc
+.end

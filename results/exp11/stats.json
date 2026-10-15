@@ -1,0 +1,58 @@
+{
+ "B 2B Zwicker: kalıcı bölünme": [
+  2,
+  30
+ ],
+ "B 2B Zwicker: büyüme→ikili bölünme": [
+  0,
+  30
+ ],
+ "B 2B Zwicker: solucan→kopma": [
+  1,
+  30
+ ],
+ "B 2B Zwicker: büyük başlangıç bölündü (kalıcı)": [
+  1,
+  30
+ ],
+ "B 2B Zwicker: solucan (uzadı, kopmadı)": [
+  9,
+  30
+ ],
+ "B 2B Zwicker: damla yaşadı": [
+  24,
+  30
+ ],
+ "A (A≥0,02): kalıcı bölünme": [
+  0,
+  15
+ ],
+ "A (A≥0,02): hücre yaşadı": [
+  6,
+  15
+ ],
+ "A2 (A≤0,01): kalıcı bölünme": [
+  0,
+  13
+ ],
+ "A2 (A≤0,01): hücre yaşadı": [
+  13,
+  13
+ ],
+ "A3 (şarj şiddeti J taraması): kalıcı bölünme": [
+  0,
+  12
+ ],
+ "A3 (şarj şiddeti J taraması): ortamdan doğum": [
+  12,
+  12
+ ],
+ "A+A2 spinodal doğum (bölünme değil)": [
+  1,
+  28
+ ],
+ "GS: çoğalan lekeler": [
+  5,
+  42
+ ]
+}

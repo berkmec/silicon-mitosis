@@ -1,0 +1,983 @@
+{
+ "F": 0.026,
+ "k": 0.059,
+ "n": 256,
+ "L": 1.25,
+ "window": 3000,
+ "snap_dt": 25,
+ "N_start": 83,
+ "N_end": 127,
+ "totals": {
+  "div": 325,
+  "death": 44,
+  "birth": 0,
+  "merge": 234
+ },
+ "net_change": 44,
+ "hist": [
+  {
+   "t": 0.0,
+   "n": 83
+  },
+  {
+   "t": 25.0,
+   "n": 83,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 50.0,
+   "n": 83,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 75.0,
+   "n": 83,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 100.0,
+   "n": 83,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 125.0,
+   "n": 84,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 150.0,
+   "n": 84,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 175.0,
+   "n": 84,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 200.0,
+   "n": 84,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 225.0,
+   "n": 84,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 250.0,
+   "n": 84,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 275.0,
+   "n": 84,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 300.0,
+   "n": 84,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 325.0,
+   "n": 85,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 350.0,
+   "n": 86,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 375.0,
+   "n": 86,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 400.0,
+   "n": 87,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 425.0,
+   "n": 87,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 450.0,
+   "n": 87,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 475.0,
+   "n": 86,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 500.0,
+   "n": 81,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 4
+  },
+  {
+   "t": 525.0,
+   "n": 78,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 3
+  },
+  {
+   "t": 550.0,
+   "n": 80,
+   "div": 2,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 575.0,
+   "n": 86,
+   "div": 6,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 600.0,
+   "n": 97,
+   "div": 12,
+   "death": 0,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 625.0,
+   "n": 104,
+   "div": 7,
+   "death": 0,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 650.0,
+   "n": 103,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 2
+  },
+  {
+   "t": 675.0,
+   "n": 99,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 4
+  },
+  {
+   "t": 700.0,
+   "n": 91,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 7
+  },
+  {
+   "t": 725.0,
+   "n": 83,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 8
+  },
+  {
+   "t": 750.0,
+   "n": 88,
+   "div": 7,
+   "death": 0,
+   "birth": 0,
+   "merge": 2
+  },
+  {
+   "t": 775.0,
+   "n": 99,
+   "div": 9,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 800.0,
+   "n": 110,
+   "div": 10,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 825.0,
+   "n": 119,
+   "div": 8,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 850.0,
+   "n": 121,
+   "div": 2,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 875.0,
+   "n": 118,
+   "div": 2,
+   "death": 0,
+   "birth": 0,
+   "merge": 5
+  },
+  {
+   "t": 900.0,
+   "n": 109,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 8
+  },
+  {
+   "t": 925.0,
+   "n": 97,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 8
+  },
+  {
+   "t": 950.0,
+   "n": 102,
+   "div": 6,
+   "death": 0,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 975.0,
+   "n": 116,
+   "div": 12,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1000.0,
+   "n": 123,
+   "div": 7,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1025.0,
+   "n": 130,
+   "div": 6,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1050.0,
+   "n": 135,
+   "div": 5,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1075.0,
+   "n": 133,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 3
+  },
+  {
+   "t": 1100.0,
+   "n": 123,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 10
+  },
+  {
+   "t": 1125.0,
+   "n": 111,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 8
+  },
+  {
+   "t": 1150.0,
+   "n": 108,
+   "div": 3,
+   "death": 0,
+   "birth": 0,
+   "merge": 3
+  },
+  {
+   "t": 1175.0,
+   "n": 120,
+   "div": 12,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1200.0,
+   "n": 135,
+   "div": 12,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1225.0,
+   "n": 145,
+   "div": 7,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1250.0,
+   "n": 148,
+   "div": 3,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1275.0,
+   "n": 148,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 1300.0,
+   "n": 139,
+   "div": 1,
+   "death": 1,
+   "birth": 0,
+   "merge": 7
+  },
+  {
+   "t": 1325.0,
+   "n": 122,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 12
+  },
+  {
+   "t": 1350.0,
+   "n": 115,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 4
+  },
+  {
+   "t": 1375.0,
+   "n": 128,
+   "div": 11,
+   "death": 0,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 1400.0,
+   "n": 141,
+   "div": 9,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1425.0,
+   "n": 150,
+   "div": 8,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1450.0,
+   "n": 152,
+   "div": 3,
+   "death": 2,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1475.0,
+   "n": 153,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1500.0,
+   "n": 146,
+   "div": 0,
+   "death": 2,
+   "birth": 0,
+   "merge": 5
+  },
+  {
+   "t": 1525.0,
+   "n": 133,
+   "div": 0,
+   "death": 1,
+   "birth": 0,
+   "merge": 8
+  },
+  {
+   "t": 1550.0,
+   "n": 116,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 11
+  },
+  {
+   "t": 1575.0,
+   "n": 116,
+   "div": 4,
+   "death": 0,
+   "birth": 0,
+   "merge": 3
+  },
+  {
+   "t": 1600.0,
+   "n": 139,
+   "div": 14,
+   "death": 0,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 1625.0,
+   "n": 152,
+   "div": 10,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1650.0,
+   "n": 153,
+   "div": 2,
+   "death": 1,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1675.0,
+   "n": 150,
+   "div": 1,
+   "death": 4,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1700.0,
+   "n": 147,
+   "div": 0,
+   "death": 2,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 1725.0,
+   "n": 139,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 6
+  },
+  {
+   "t": 1750.0,
+   "n": 121,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 16
+  },
+  {
+   "t": 1775.0,
+   "n": 118,
+   "div": 5,
+   "death": 1,
+   "birth": 0,
+   "merge": 5
+  },
+  {
+   "t": 1800.0,
+   "n": 131,
+   "div": 11,
+   "death": 0,
+   "birth": 0,
+   "merge": 2
+  },
+  {
+   "t": 1825.0,
+   "n": 141,
+   "div": 9,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1850.0,
+   "n": 147,
+   "div": 4,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1875.0,
+   "n": 148,
+   "div": 2,
+   "death": 1,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 1900.0,
+   "n": 145,
+   "div": 0,
+   "death": 2,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 1925.0,
+   "n": 141,
+   "div": 0,
+   "death": 1,
+   "birth": 0,
+   "merge": 3
+  },
+  {
+   "t": 1950.0,
+   "n": 129,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 8
+  },
+  {
+   "t": 1975.0,
+   "n": 127,
+   "div": 2,
+   "death": 1,
+   "birth": 0,
+   "merge": 3
+  },
+  {
+   "t": 2000.0,
+   "n": 132,
+   "div": 7,
+   "death": 0,
+   "birth": 0,
+   "merge": 3
+  },
+  {
+   "t": 2025.0,
+   "n": 140,
+   "div": 8,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2050.0,
+   "n": 146,
+   "div": 6,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2075.0,
+   "n": 145,
+   "div": 1,
+   "death": 2,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 2100.0,
+   "n": 144,
+   "div": 0,
+   "death": 1,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2125.0,
+   "n": 142,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 2
+  },
+  {
+   "t": 2150.0,
+   "n": 136,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 6
+  },
+  {
+   "t": 2175.0,
+   "n": 133,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 4
+  },
+  {
+   "t": 2200.0,
+   "n": 136,
+   "div": 4,
+   "death": 0,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 2225.0,
+   "n": 142,
+   "div": 4,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2250.0,
+   "n": 143,
+   "div": 2,
+   "death": 0,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 2275.0,
+   "n": 145,
+   "div": 2,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2300.0,
+   "n": 146,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2325.0,
+   "n": 144,
+   "div": 1,
+   "death": 1,
+   "birth": 0,
+   "merge": 2
+  },
+  {
+   "t": 2350.0,
+   "n": 141,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 3
+  },
+  {
+   "t": 2375.0,
+   "n": 138,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 3
+  },
+  {
+   "t": 2400.0,
+   "n": 135,
+   "div": 2,
+   "death": 0,
+   "birth": 0,
+   "merge": 3
+  },
+  {
+   "t": 2425.0,
+   "n": 138,
+   "div": 5,
+   "death": 0,
+   "birth": 0,
+   "merge": 2
+  },
+  {
+   "t": 2450.0,
+   "n": 145,
+   "div": 6,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2475.0,
+   "n": 144,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 2500.0,
+   "n": 145,
+   "div": 1,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2525.0,
+   "n": 144,
+   "div": 1,
+   "death": 3,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2550.0,
+   "n": 141,
+   "div": 0,
+   "death": 1,
+   "birth": 0,
+   "merge": 2
+  },
+  {
+   "t": 2575.0,
+   "n": 133,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 5
+  },
+  {
+   "t": 2600.0,
+   "n": 129,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 3
+  },
+  {
+   "t": 2625.0,
+   "n": 131,
+   "div": 2,
+   "death": 0,
+   "birth": 0,
+   "merge": 2
+  },
+  {
+   "t": 2650.0,
+   "n": 139,
+   "div": 6,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2675.0,
+   "n": 139,
+   "div": 2,
+   "death": 2,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2700.0,
+   "n": 135,
+   "div": 1,
+   "death": 5,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2725.0,
+   "n": 136,
+   "div": 1,
+   "death": 1,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2750.0,
+   "n": 134,
+   "div": 0,
+   "death": 2,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2775.0,
+   "n": 132,
+   "div": 0,
+   "death": 2,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2800.0,
+   "n": 124,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 6
+  },
+  {
+   "t": 2825.0,
+   "n": 120,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 3
+  },
+  {
+   "t": 2850.0,
+   "n": 121,
+   "div": 3,
+   "death": 0,
+   "birth": 0,
+   "merge": 1
+  },
+  {
+   "t": 2875.0,
+   "n": 124,
+   "div": 7,
+   "death": 0,
+   "birth": 0,
+   "merge": 2
+  },
+  {
+   "t": 2900.0,
+   "n": 127,
+   "div": 2,
+   "death": 0,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2925.0,
+   "n": 129,
+   "div": 1,
+   "death": 2,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2950.0,
+   "n": 129,
+   "div": 1,
+   "death": 1,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 2975.0,
+   "n": 128,
+   "div": 1,
+   "death": 2,
+   "birth": 0,
+   "merge": 0
+  },
+  {
+   "t": 3000.0,
+   "n": 127,
+   "div": 0,
+   "death": 0,
+   "birth": 0,
+   "merge": 1
+  }
+ ]
+}

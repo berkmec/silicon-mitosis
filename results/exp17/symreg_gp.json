@@ -1,0 +1,32 @@
+[
+ {
+  "seed": 0,
+  "expr": "div(mul(div(91.193, add(div(log(sub(rD, 10.874)), lam), log(log(rD)))), log(mul(mul(mul(rD, 92.546), div(rD, lam)), div(add(lam, 61.444), mul(rD, lam))))), sqrt(rD))",
+  "rel_rmse": 0.09924379836723775,
+  "length": 32
+ },
+ {
+  "seed": 1,
+  "expr": "sub(mul(div(add(mul(div(95.707, rD), sqrt(-66.729)), sub(sqrt(div(mul(sub(sqrt(lam), 88.353), sub(rD, 88.353)), add(add(rD, lam), sub(rD, 59.315)))), add(lam, -89.700))), rD), mul(sqrt(mul(rD, -50.201)), div(add(sqrt(-66.729), 67.036), mul(lam, rD)))), sub(rD, 88.353))",
+  "rel_rmse": 0.0777783792124012,
+  "length": 48
+ },
+ {
+  "seed": 2,
+  "expr": "mul(div(mul(sqrt(mul(add(rD, -97.280), div(add(rD, -97.280), lam))), log(add(rD, add(rD, add(rD, -97.280))))), log(log(rD))), mul(log(log(71.832)), log(log(div(add(log(lam), -84.751), log(log(lam)))))))",
+  "rel_rmse": 0.08364883303337176,
+  "length": 38
+ },
+ {
+  "seed": 3,
+  "expr": "sqrt(div(sub(div(lam, rD), mul(-39.663, -52.967)), div(add(rD, rD), div(div(mul(log(mul(35.726, 82.368)), sub(log(lam), mul(35.726, -97.470))), add(rD, mul(log(lam), log(sub(add(mul(log(lam), log(sub(sub(log(lam), sub(div(rD, lam), log(sub(div(64.042, rD), lam)))), lam))), lam), 51.682))))), log(mul(sub(add(13.947, mul(log(lam), div(lam, rD))), lam), mul(72.941, rD)))))))",
+  "rel_rmse": 0.04314121208850928,
+  "length": 70
+ },
+ {
+  "seed": 4,
+  "expr": "sub(div(sqrt(mul(div(-60.152, log(sqrt(rD))), add(add(add(div(83.794, sqrt(rD)), rD), 87.730), lam))), log(sqrt(rD))), add(sub(add(lam, rD), add(div(83.794, sqrt(rD)), 87.730)), rD))",
+  "rel_rmse": 0.1125013582409135,
+  "length": 34
+ }
+]

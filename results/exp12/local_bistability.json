@@ -1,0 +1,228 @@
+{
+ "knob_grid": {
+  "dvt": [
+   0.0,
+   0.15,
+   0.3
+  ],
+  "fii": [
+   1,
+   10,
+   100
+  ],
+  "von": [
+   0.8,
+   1.0,
+   1.1
+  ],
+  "vs": [
+   0.005,
+   0.025,
+   0.05
+  ],
+  "g_sub": [
+   1e-15,
+   1e-12,
+   1e-09
+  ]
+ },
+ "vg": [
+  1.2,
+  1.8
+ ],
+ "n_cases": 486,
+ "n_bistable": 14,
+ "examples": [
+  {
+   "vg": 1.2,
+   "dvt": 0.0,
+   "fii": 100,
+   "von": 1.0,
+   "vs": 0.005,
+   "g_sub": 1e-15,
+   "vd_bistable": [
+    0.7,
+    0.7
+   ]
+  },
+  {
+   "vg": 1.2,
+   "dvt": 0.0,
+   "fii": 100,
+   "von": 1.1,
+   "vs": 0.005,
+   "g_sub": 1e-15,
+   "vd_bistable": [
+    0.7,
+    0.7
+   ]
+  },
+  {
+   "vg": 1.2,
+   "dvt": 0.15,
+   "fii": 1,
+   "von": 1.0,
+   "vs": 0.005,
+   "g_sub": 1e-15,
+   "vd_bistable": [
+    0.75,
+    0.75
+   ]
+  },
+  {
+   "vg": 1.2,
+   "dvt": 0.15,
+   "fii": 1,
+   "von": 1.1,
+   "vs": 0.005,
+   "g_sub": 1e-15,
+   "vd_bistable": [
+    0.75,
+    0.75
+   ]
+  },
+  {
+   "vg": 1.2,
+   "dvt": 0.15,
+   "fii": 100,
+   "von": 1.0,
+   "vs": 0.005,
+   "g_sub": 1e-12,
+   "vd_bistable": [
+    0.8,
+    0.8
+   ]
+  },
+  {
+   "vg": 1.2,
+   "dvt": 0.15,
+   "fii": 100,
+   "von": 1.1,
+   "vs": 0.005,
+   "g_sub": 1e-12,
+   "vd_bistable": [
+    0.8,
+    0.8
+   ]
+  },
+  {
+   "vg": 1.8,
+   "dvt": 0.15,
+   "fii": 1,
+   "von": 1.0,
+   "vs": 0.005,
+   "g_sub": 1e-15,
+   "vd_bistable": [
+    0.85,
+    0.85
+   ]
+  },
+  {
+   "vg": 1.8,
+   "dvt": 0.15,
+   "fii": 1,
+   "von": 1.1,
+   "vs": 0.005,
+   "g_sub": 1e-15,
+   "vd_bistable": [
+    0.85,
+    0.85
+   ]
+  },
+  {
+   "vg": 1.8,
+   "dvt": 0.15,
+   "fii": 10,
+   "von": 1.0,
+   "vs": 0.005,
+   "g_sub": 1e-12,
+   "vd_bistable": [
+    0.95,
+    0.95
+   ]
+  },
+  {
+   "vg": 1.8,
+   "dvt": 0.15,
+   "fii": 10,
+   "von": 1.1,
+   "vs": 0.005,
+   "g_sub": 1e-12,
+   "vd_bistable": [
+    0.95,
+    0.95
+   ]
+  },
+  {
+   "vg": 1.8,
+   "dvt": 0.3,
+   "fii": 1,
+   "von": 1.0,
+   "vs": 0.005,
+   "g_sub": 1e-12,
+   "vd_bistable": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "vg": 1.8,
+   "dvt": 0.3,
+   "fii": 1,
+   "von": 1.1,
+   "vs": 0.005,
+   "g_sub": 1e-12,
+   "vd_bistable": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "vg": 1.8,
+   "dvt": 0.3,
+   "fii": 100,
+   "von": 1.0,
+   "vs": 0.005,
+   "g_sub": 1e-15,
+   "vd_bistable": [
+    0.75,
+    0.75
+   ]
+  },
+  {
+   "vg": 1.8,
+   "dvt": 0.3,
+   "fii": 100,
+   "von": 1.1,
+   "vs": 0.005,
+   "g_sub": 1e-15,
+   "vd_bistable": [
+    0.75,
+    0.75
+   ]
+  }
+ ],
+ "feedback": {
+  "vg1.2_vd1.2": {
+   "max_dlnj_dVb": 1.795594287257245,
+   "jii_ratio_Vb1_over_Vb0": 1.4855420102881254,
+   "jch_ratio_Vb1_over_Vb0": 1.5430115249633005
+  },
+  "vg1.2_vd1.8": {
+   "max_dlnj_dVb": 0.7709821474583123,
+   "jii_ratio_Vb1_over_Vb0": 1.4615371285346082,
+   "jch_ratio_Vb1_over_Vb0": 1.4835595083366124
+  },
+  "vg1.8_vd1.8": {
+   "max_dlnj_dVb": 0.759009798583179,
+   "jii_ratio_Vb1_over_Vb0": 1.3408699968031994,
+   "jch_ratio_Vb1_over_Vb0": 1.2316342330532484
+  },
+  "vg1.2_vd2.4": {
+   "max_dlnj_dVb": 0.6165087005553005,
+   "jii_ratio_Vb1_over_Vb0": 1.4234487981287816,
+   "jch_ratio_Vb1_over_Vb0": 1.434961780472118
+  }
+ },
+ "note": "Exp12 step 3: is the floating-body / impact-ionisation feedback of a SKY130 nFET BISTABLE (S-shaped) at 4 K?\nLocal physics from the official BSIM4 card (ngspice tables spice/tab_vb*.dat: channel current id and isub per um of\nwidth, V_bs 0..1.0 V, V_gs 0.3..1.8, V_ds 0..2.6). 4 K knobs (assumptions): dvt (V_T increase, applied as V_g - dvt),\nfii (impact ionisation x fii), body diode j_dio = j_on exp((V_b - V_on)/V_s), frozen-substrate leak g_sub V_b.\nSteady states of the body node at fixed (V_g, V_d):  F(V_b) = fii*j_ii(V_g-dvt, V_d, V_b) - j_dio(V_b) - g_sub V_b = 0.\nCounts the roots on V_b in [0, 1.2] (V_b > 1.0 uses the V_b = 1.0 table: BSIM4 clamps V_bseff below Phi_s anyway).\nAlso reports the 'feedback slope' d ln j_ii / d V_b, which must exceed the leak's d ln j / d V_b somewhere for >1 root."
+}
